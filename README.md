@@ -11,8 +11,9 @@ La idea es simple:
 
 1. Instalas WPS Office.
 2. Copias los archivos de idioma.
-3. Cambias la configuracion para que WPS arranque en español.
-4. Copias los diccionarios para que funcione el corrector ortografico.
+3. Copias los diccionarios para que funcione el corrector ortografico.
+4. Cambias la configuracion para que WPS arranque en español.
+
 
 ## Que necesitas antes de empezar
 
@@ -28,7 +29,7 @@ Importante:
 
 ## Que significa cada ruta
 
-Si eres estudiante y estas empezando en Linux, esto te ayuda:
+Si estas empezando en Linux, esto te ayudará. En WPS Office la versión 12 descargada desde la página china:
 
 - `/opt/kingsoft/wps-office/office6/mui/`
   Aqui WPS guarda los archivos de idioma de la interfaz.
@@ -41,7 +42,7 @@ Si eres estudiante y estas empezando en Linux, esto te ayuda:
 
 Descarga el instalador de WPS Office para tu distribucion Linux.
 
-Sitio oficial:
+Sitio oficial de la página china:
 
 - [https://www.wps.cn](https://www.wps.cn)
 
@@ -80,7 +81,15 @@ Abre el archivo de configuracion del usuario:
 nano ~/.config/Kingsoft/Office.conf
 ```
 
-Borra lo que tenga y deja este contenido:
+o usa Gedit (instalalo) para más comodidad:
+
+```bash
+gedit ~/.config/Kingsoft/Office.conf
+```
+
+**Nota:** También puedes usar otro editor de texto, solo cambia gedit por su nombre.
+
+Borra todo lo que tenga y deja este solo contenido:
 
 ```ini
 [General]
@@ -92,6 +101,8 @@ common\Local\UILanguage=3082
 wpsoffice\Application%20Settings\AppComponentMode=prome_independ
 wpsoffice\Application%20Settings\AppComponentModeInstall=prome_independ
 ```
+
+**Nota:** No te preocupes por borrar todo el contenido, luego al iniciar el programa WPS Office creará lo que faltaba.
 
 Que hace esta configuracion:
 
@@ -108,11 +119,13 @@ Guarda el archivo en `nano` con:
 2. `Enter`
 3. `Ctrl + X`
 
+En Gedit dale al botón Guardar
+
 ## Paso 4: copia los diccionarios para la correccion ortografica
 
 En este manual, los diccionarios se instalan en la ruta global de WPS dentro de `/opt`.
 
-Desde la carpeta de este repositorio, ejecuta:
+Estando ubicado en una terminal desde la carpeta de este repositorio, ejecuta:
 
 ```bash
 sudo cp -r spellcheck/* /opt/kingsoft/wps-office/office6/dicts/spellcheck/
@@ -164,7 +177,7 @@ Revisa estas 5 cosas:
 
 ## Resumen rapido
 
-Si ya entendiste el proceso y solo quieres los comandos:
+Si ya entendiste el proceso y solo quieres los comandos (estando ubicado en una terminal en la carpeta de este repositorio):
 
 ```bash
 sudo cp -r mui/* /opt/kingsoft/wps-office/office6/mui/
