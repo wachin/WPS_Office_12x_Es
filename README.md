@@ -1,6 +1,6 @@
-# WPS Office 12.x en Espanol para Linux
+# WPS Office 12.x en español para Linux
 
-Este repositorio sirve para poner **WPS Office 12.x** en **espanol** en Linux.
+Este repositorio sirve para poner **WPS Office 12.x** en **español** en Linux.
 
 Aqui vas a encontrar dos cosas:
 
@@ -11,7 +11,7 @@ La idea es simple:
 
 1. Instalas WPS Office.
 2. Copias los archivos de idioma.
-3. Cambias la configuracion para que WPS arranque en espanol.
+3. Cambias la configuracion para que WPS arranque en español.
 4. Copias los diccionarios para que funcione el corrector ortografico.
 
 ## Que necesitas antes de empezar
@@ -59,7 +59,7 @@ Si usas Fedora, Red Hat o similares:
 sudo dnf install wps-office*.rpm
 ```
 
-## Paso 2: copia los archivos del idioma espanol
+## Paso 2: copia los archivos del idioma español
 
 Desde la carpeta de este repositorio, ejecuta:
 
@@ -70,9 +70,9 @@ sudo cp -r mui/* /opt/kingsoft/wps-office/office6/mui/
 Que hace este comando:
 
 - Copia `es_ES` y `es_MX` dentro de la carpeta de idiomas de WPS.
-- Eso permite que WPS tenga disponibles los archivos de interfaz en espanol.
+- Eso permite que WPS tenga disponibles los archivos de interfaz en español.
 
-## Paso 3: cambia la configuracion para que WPS abra en espanol
+## Paso 3: cambia la configuracion para que WPS abra en español
 
 Abre el archivo de configuracion del usuario:
 
@@ -96,9 +96,9 @@ wpsoffice\Application%20Settings\AppComponentModeInstall=prome_independ
 Que hace esta configuracion:
 
 - `languages=es_ES`
-  Le dice a WPS que use espanol de Espana como idioma principal.
+  Le dice a WPS que use español de España como idioma principal.
 - `DefaultLanguage=3082` y `UILanguage=3082`
-  Fuerzan la interfaz grafica en espanol.
+  Fuerzan la interfaz grafica en español.
 - `AppComponentMode=prome_independ`
   Hace que WPS use el modo de ventanas que funciona mejor con esta configuracion.
 
@@ -120,7 +120,7 @@ sudo cp -r spellcheck/* /opt/kingsoft/wps-office/office6/dicts/spellcheck/
 
 Que hace este comando:
 
-- Copia los diccionarios de espanol a la carpeta que usa WPS para revisar ortografia.
+- Copia los diccionarios de español a la carpeta que usa WPS para revisar ortografia.
 - Permite activar variantes como `es_ES`, `es_MX`, `es_EC`, etc.
 
 ## Paso 5: cierra y vuelve a abrir WPS Office
@@ -129,12 +129,12 @@ Si WPS estaba abierto, cierralo por completo y vuelve a iniciarlo.
 
 Si todo salio bien:
 
-- la interfaz aparecera en espanol
-- el menu de correccion ortografica mostrara opciones de espanol
+- la interfaz aparecera en español
+- el menu de correccion ortografica mostrara opciones de español
 
 ## Resultado esperado
 
-Cuando termines, WPS deberia verse en espanol:
+Cuando termines, WPS deberia verse en español:
 
 ![imagen](https://github.com/user-attachments/assets/686b8367-afbb-4487-a999-e61eef9d74c7)
 
@@ -142,7 +142,7 @@ Cuando termines, WPS deberia verse en espanol:
 
 ![imagen](https://github.com/user-attachments/assets/d5ea0f02-e6d9-4b36-a739-fabd37626cd3)
 
-## Como activar la correccion ortografica en espanol
+## Como activar la correccion ortografica en español
 
 Despues de copiar los diccionarios, abre WPS Writer y revisa las opciones de idioma o correccion ortografica.
 
