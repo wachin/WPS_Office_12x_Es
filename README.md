@@ -215,6 +215,8 @@ y descarga los idiomas:
 
 una vez descargados los idiomas estos se descargan en:
 
+## C_Users_youruser_AppData_Roaming_kingsoft_wps_intl_addons_pool_win-x64
+
 C:\Users\youruser\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64
 
 Como son:
@@ -223,6 +225,8 @@ Como son:
 
 
 La lista de los lenguajes está aquí:  
+
+## C_Users_youruser_AppData_Local_Kingsoft_WPS-Office_12.1.0.25830_office6_mui_lang_list
   
 C:\Users\youruser\AppData\Local\Kingsoft\WPS Office\12.1.0.25830\office6\mui\lang_list\lang_list.json
 
@@ -230,6 +234,8 @@ C:\Users\youruser\AppData\Local\Kingsoft\WPS Office\12.1.0.25830\office6\mui\lan
 
 
 pero aún hay unos paquetes que están en otro lado, esos vienen con la versión de Windows en español, están en:
+
+## C_Users_youruser_AppData_Local_Kingsoft_WPS-Office_12.1.0.25830_office6_mui
 
 C:\Users\wachi\AppData\Local\Kingsoft\WPS Office\12.1.0.25830\office6\mui
 
