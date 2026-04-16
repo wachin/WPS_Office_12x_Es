@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tr version="1">
+     <message>
+        <source>Create synchronization this folder</source>
+        <translation>Создать синхронизацию этой папки</translation>
+    </message>
+    <message>
+        <source>Cancel synchronization</source>
+        <translation>Отменить синхронизацию</translation>
+    </message>
+    <message>
+        <source>Sync Desktop Setting</source>
+        <translation>Синхронизировать настройки рабочего стола</translation>
+    </message>
+    <message>
+        <source>Send to mobile</source>
+        <translation>Отправить на мобильный</translation>
+    </message>
+    <message>
+        <source>Sync Desktop All Files</source>
+        <translation>Синхронизировать все файлы рабочего стола</translation>
+    </message>
+    <message>
+        <source>send by WPS</source>
+        <translation>отправить через WPS</translation>
+    </message>
+    <message>
+        <source>send to my device by wps</source>
+        <translation>отправить на мое устройство через WPS</translation>
+    </message>
+    <message>
+        <source>Convert to online document</source>
+        <translation>Конвертировать в онлайн-документ</translation>
+    </message>
+    <message>
+        <source>cancel share</source>
+        <translation>Отменить общий доступ</translation>
+    </message>
+    <message>
+        <source>invite others synchronization</source>
+        <translation>Пригласить других для синхронизации</translation>
+    </message>
+    <message>
+        <source>Upload file</source>
+        <translation>Загрузить в WPS Office Cloud</translation>
+    </message>
+    <message>
+        <source>Upload or synchronization</source>
+        <translation>Загрузка или синхронизация</translation>
+    </message>
+    <message>
+        <source>Send to shared folder</source>
+        <translation>Отправить в общую папку</translation>
+    </message>
+</tr>

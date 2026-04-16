@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tr version="1">
+    <message>
+        <source>Create synchronization this folder</source>
+        <translation>Crear sincronización de esta carpeta</translation>
+    </message>
+    <message>
+        <source>Cancel synchronization</source>
+        <translation>Cancelar sincronización</translation>
+    </message>
+    <message>
+        <source>Sync Desktop Setting</source>
+        <translation>Sincronizar configuración de escritorio</translation>
+    </message>
+    <message>
+        <source>Send to mobile</source>
+        <translation>Enviar al móvil</translation>
+    </message>
+    <message>
+        <source>Sync Desktop All Files</source>
+        <translation>Sincronizar todos los archivos del escritorio</translation>
+    </message>
+    <message>
+        <source>send by WPS</source>
+        <translation>enviar por WPS</translation>
+    </message>
+    <message>
+        <source>send to my device by wps</source>
+        <translation>enviar a mi dispositivo por WPS</translation>
+    </message>
+    <message>
+        <source>Convert to online document</source>
+        <translation>Convertir a documento en línea</translation>
+    </message>
+    <message>
+        <source>cancel share</source>
+        <translation>cancelar compartir</translation>
+    </message>
+    <message>
+        <source>invite others synchronization</source>
+        <translation>invitar a otros a la sincronización</translation>
+    </message>
+    <message>
+        <source>Upload file</source>
+        <translation>Actualizar a WPS Office Cloud</translation>
+    </message>
+    <message>
+        <source>Upload or synchronization</source>
+        <translation>Subir o sincronizar</translation>
+    </message>
+    <message>
+        <source>Send to shared folder</source>
+        <translation>Enviar a la carpeta compartida</translation>
+    </message>
+</tr>

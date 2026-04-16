@@ -1,0 +1,757 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tr version="1">
+	<message>
+		<source>pdf2office</source>
+		<translation>Ubah ke format lain</translation>
+	</message>
+	<message>
+		<source>pdf2doc</source>
+		<translation>Ubah ke Word</translation>
+	</message>
+	<message>
+		<source>pdf2xls</source>
+		<translation>Ubah ke Excel</translation>
+	</message>
+	<message>
+		<source>pdf2ppt</source>
+		<translation>Ubah ke PPT</translation>
+	</message>
+	<message>
+		<source>pdf2imgpdf</source>
+		<translation>Ubah ke PDF jenis gambar</translation>
+	</message>
+	<message>
+		<source>pdf2photo</source>
+		<translation>Ubah ke gambar</translation>
+	</message>
+	<message>
+		<source>pdfsplitmerge</source>
+		<translation>Gabung/Pisah/Kompres PDF</translation>
+	</message>
+	<message>
+		<source>pdfconvertsplitmerge</source>
+		<translation>Ubah/Gabung/Pisah PDF</translation>
+	</message>
+	<message>
+		<source>pdfsplit</source>
+		<translation>Pisah PDF</translation>
+	</message>
+	<message>
+		<source>pdfmerge</source>
+		<translation>Gabung PDF</translation>
+	</message>
+	<message>
+		<source>photo2pdfocr</source>
+		<translation>Konversi Gambar</translation>
+	</message>
+	<message>
+		<source>photo2pdf</source>
+		<translation>Konversi ke PDF</translation>
+	</message>
+	<message>
+		<source>pic2txt</source>
+		<translation>Ekstrak Teks Murni</translation>
+	</message>
+	<message>
+		<source>pic2table</source>
+		<translation>Konversi ke Excel</translation>
+	</message>
+	<message>
+		<source>file2pdf</source>
+		<translation>Konversi ke PDF</translation>
+	</message>
+	<message>
+		<source>aiocr2pdf</source>
+		<translation>Pengenalan Teks</translation>
+	</message>
+	<message>
+		<source>pdf2cad</source>
+		<translation>Konversi ke File CAD</translation>
+	</message>
+	<message>
+		<source>cad2pdf</source>
+		<translation>File CAD ke PDF</translation>
+	</message>
+	<message>
+		<source>cad2pdflite</source>
+		<translation>CAD ke PDF</translation>
+	</message>
+	<message>
+		<source>caj2pdf</source>
+		<translation>File CAJ ke PDF</translation>
+	</message>
+	<message>
+		<source>batchcompress</source>
+		<translation>Mengurangi ukuran PDF</translation>
+	</message>
+	<message>
+		<source>pdfbatchcompress</source>
+		<translation>Kompresi PDF</translation>
+	</message>
+	<message>
+		<source>papercheck</source>
+		<translation>Pengecekan plagiarisme</translation>
+	</message>
+	<message>
+		<source>batchprint</source>
+		<translation>Cetak PDF secara massal</translation>
+	</message>
+	<message>
+		<source>multicomponentbatchprint</source>
+		<translation>Cetak massal</translation>
+	</message>
+	<message>
+		<source>EditWithWPSPDF</source>
+		<translation>Menggunakan WPS PDF Editor</translation>
+	</message>
+	<message>
+		<source>EditPDF</source>
+		<translation>Editor PDF</translation>
+	</message>
+	<message>
+		<source>photocadconvert</source>
+		<translation>Konversi file CAD ke gambar</translation>
+	</message>
+	<message>
+		<source>photocadconvertlite</source>
+		<translation>CAD ke gambar</translation>
+	</message>
+	<message>
+		<source>photoprint</source>
+		<translation>Cetak gambar</translation>
+	</message>
+	<message>
+		<source>photosplice</source>
+		<translation>Gabungkan Gambar</translation>
+	</message>
+	<message>
+		<source>photobatchprintsplice</source>
+		<translation>Cetak/Gabungkan Gambar</translation>
+	</message>
+	<message>
+		<source>multiplephotoprint</source>
+		<translation>Cetak Gambar</translation>
+	</message>
+	<message>
+		<source>multiplephotosplice</source>
+		<translation>Gabungkan Gambar</translation>
+	</message>
+	<message>
+		<source>photoresizeconvert</source>
+		<translation>Ubah Properti Gambar</translation>
+	</message>
+	<message>
+		<source>photoresize</source>
+		<translation>Ubah Ukuran</translation>
+	</message>
+	<message>
+		<source>photocompress</source>
+		<translation>Kompres Gambar</translation>
+	</message>
+	<message>
+		<source>photorepairapp</source>
+		<translation>Perbaiki Gambar</translation>
+	</message>
+	<message>
+		<source>photoscanapp</source>
+		<translation>Buat Pindai</translation>
+	</message>
+	<message>
+		<source>photoconvert</source>
+		<translation>Konversi Format</translation>
+	</message>
+	<message>
+		<source>photosplitapp</source>
+		<translation>Pemisahan Gambar</translation>
+	</message>
+	<message>
+		<source>photodesign</source>
+		<translation>Desain Gambar</translation>
+	</message>
+	<message>
+		<source>newmenuchuangkitdesign</source>
+		<translation>Gambar Poster</translation>
+	</message>
+	<message>
+		<source>photobatch</source>
+		<translation>Pemrosesan Gambar Massal</translation>
+	</message>
+	<message>
+		<source>photobatchcrop</source>
+		<translation>Pemotongan Massal</translation>
+	</message>
+	<message>
+		<source>photobatchcorrect</source>
+		<translation>Koreksi Massal</translation>
+	</message>
+	<message>
+		<source>photobatchrotate</source>
+		<translation>Rotasi Massal</translation>
+	</message>
+	<message>
+		<source>photobatchtext</source>
+		<translation>Penambahan Teks Massal</translation>
+	</message>
+	<message>
+		<source>photobatchwatermark</source>
+		<translation>Penambahan Watermark Massal</translation>
+	</message>
+	<message>
+		<source>photobatchcompress</source>
+		<translation>Kompresi Massal</translation>
+	</message>
+	<message>
+		<source>photobatchresize</source>
+		<translation>Ubah Ukuran Massal</translation>
+	</message>
+	<message>
+		<source>photobatchrename</source>
+		<translation>Ubah Nama Massal</translation>
+	</message>
+	<message>
+		<source>photobatchconvert</source>
+		<translation>Ubah Format Massal</translation>
+	</message>
+	<message>
+		<source>kbatchconvertfile</source>
+		<translation>Ubah Format Dokumen Massal</translation>
+	</message>
+	<message>
+		<source>photobatchmatting</source>
+		<translation>Potong Gambar Massal</translation>
+	</message>
+	<message>
+		<source>more</source>
+		<translation>Lebih Banyak Fungsi WPS</translation>
+	</message>
+	<message>
+		<source>docsplitmerge</source>
+		<translation>Gabung/Pisah Dokumen</translation>
+	</message>
+	<message>
+		<source>docsplit</source>
+		<translation>Pisah Dokumen</translation>
+	</message>
+	<message>
+		<source>docmerge</source>
+		<translation>Gabung Dokumen</translation>
+	</message>
+	<message>
+		<source>photoprintdevelop</source>
+		<translation>Cetak Gambar/Cetak Foto</translation>
+	</message>
+	<message>
+		<source>photodevelop</source>
+		<translation>Pencetakan Foto Kustom</translation>
+	</message>
+	<message>
+		<source>pdfbatchrename</source>
+		<translation>Ubah Nama Massal</translation>
+	</message>
+	<message>
+		<source>hide</source>
+		<translation>Sembunyikan Menu Klik Kanan</translation>
+	</message>
+	<message>
+		<source>batchwatermark</source>
+		<translation>Tambah atau Hapus Watermark Massal</translation>
+	</message>
+	<message>
+		<source>kapower</source>
+		<translation>Rekam Layar</translation>
+	</message>
+	<message>
+		<source>docbeautify</source>
+		<translation>PPT Diperindah secara Otomatis</translation>
+	</message>
+	<message>
+		<source>kcdiskclean</source>
+		<translation>Bebaskan Ruang di Disk C</translation>
+	</message>
+	<message>
+		<source>Edit Property</source>
+		<translation>Ubah Atribut</translation>
+	</message>
+	<message>
+		<source>Edit Property</source>
+		<translation>Ubah Atribut</translation>
+	</message>
+	<message>
+		<source>Modify Format</source>
+		<translation>Ubah Format</translation>
+	</message>
+	<message>
+		<source>File Type:</source>
+		<translation>Jenis File:</translation>
+	</message>
+	<message>
+		<source>PictureFile</source>
+		<translation>File Gambar</translation>
+	</message>
+	<message>
+		<source>Support JPG, PNG, BMP and other formats</source>
+		<translation>Mendukung format jpg, png, bmp, dll</translation>
+	</message>
+	<message>
+		<source>Format Conversion</source>
+		<translation>Konversi Format</translation>
+	</message>
+	<message>
+		<source>Resize</source>
+		<translation>Ubah Ukuran</translation>
+	</message>
+	<message>
+		<source>Size:</source>
+		<translation>Ukuran:</translation>
+	</message>
+	<message>
+		<source>Occupied Space:</source>
+		<translation>Ruang yang Digunakan:</translation>
+	</message>
+	<message>
+		<source>Resolution:</source>
+		<translation>Resolusi:</translation>
+	</message>
+	<message>
+		<source>Width</source>
+		<translation>Lebar:</translation>
+	</message>
+	<message>
+		<source>Height</source>
+		<translation>Tinggi:</translation>
+	</message>
+	<message>
+		<source>Compression</source>
+		<translation>Mengompresi Ukuran</translation>
+	</message>
+	<message>
+		<source>supports compression to a specified size</source>
+		<translation>Dukungan Kompresi Ukuran Tertentu</translation>
+	</message>
+	<message>
+		<source>modify size</source>
+		<translation>Ubah Ukuran</translation>
+	</message>
+	<message>
+		<source>support specified size and high quality</source>
+		<translation>Dukungan Ukuran Tertentu, Kualitas HD</translation>
+	</message>
+	<message>
+		<source>Picture Output</source>
+		<translation>Output Gambar</translation>
+	</message>
+	<message>
+		<source>Name:</source>
+		<translation>Nama:</translation>
+	</message>
+	<message>
+		<source>Position:</source>
+		<translation>Posisi:</translation>
+	</message>
+	<message>
+		<source>Print</source>
+		<translation>Cetak</translation>
+	</message>
+	<message>
+		<source>support typesetting beautification and HD quality</source>
+		<translation>Dukungan Penyusunan Tampilan, Kualitas HD</translation>
+	</message>
+	<message>
+		<source>Normal</source>
+		<translation>Normal</translation>
+	</message>
+	<message>
+		<source>Pix</source>
+		<translation />
+	</message>
+	<message>
+		<source>Improve image quality</source>
+		<translation />
+	</message>
+	<message>
+		<source>Output conversion</source>
+		<translation />
+	</message>
+	<message>
+		<source>Support specified size and image quality repair</source>
+		<translation />
+	</message>
+	<message>
+		<source>Picture to PDF</source>
+		<translation />
+	</message>
+	<message>
+		<source>Support single sheet output and multi sheet synthesis</source>
+		<translation />
+	</message>
+	<message>
+		<source>gifedit</source>
+		<translation />
+	</message>
+	<message>
+		<source>gifcompose</source>
+		<translation />
+	</message>
+	<message>
+		<source>cadedit</source>
+		<translation />
+	</message>
+	<message>
+		<source>kcadonlineguide</source>
+		<translation />
+	</message>
+	<message>
+		<source>3dblueprint</source>
+		<translation>Buka gambar 2D·3D</translation>
+	</message>
+	<message>
+		<source>SpaceUsage:</source>
+		<translation>Ruang yang digunakan:</translation>
+	</message>
+	<message>
+		<source>Export as image</source>
+		<translation>Ekspor sebagai gambar</translation>
+	</message>
+	<message>
+		<source>Export as Word</source>
+		<translation>Ubah ke Word</translation>
+	</message>
+	<message>
+		<source>Merge Splite</source>
+		<translation>Gabungkan/Pisahkan</translation>
+	</message>
+	<message>
+		<source>Export as pdf</source>
+		<translation>Ubah ke PDF</translation>
+	</message>
+	<message>
+		<source>Export as img pdf</source>
+		<translation>Ubah ke PDF berbasis gambar</translation>
+	</message>
+	<message>
+		<source>PageSize</source>
+		<translation>Ukuran halaman</translation>
+	</message>
+	<message>
+		<source>Compress</source>
+		<translation>Kompres</translation>
+	</message>
+	<message>
+		<source>Full text Translate</source>
+		<translation>Terjemahkan seluruh teks</translation>
+	</message>
+	<message>
+		<source>Supports conversion to Word, Excel, PPT etc.</source>
+		<translation>Mendukung konversi ke Word, Excel, PPT, dll</translation>
+	</message>
+	<message>
+		<source>bytes</source>
+		<translation>Byte</translation>
+	</message>
+	<message>
+		<source>Output Conversion</source>
+		<translation>Konversi Output</translation>
+	</message>
+	<message>
+		<source>PageCount:</source>
+		<translation>Rentang Halaman:</translation>
+	</message>
+	<message>
+		<source>WordCount:</source>
+		<translation>Jumlah Kata:</translation>
+	</message>
+	<message>
+		<source>Convert compression</source>
+		<translation>Konversi Kompresi</translation>
+	</message>
+	<message>
+		<source>Support multilingual transliteration</source>
+		<translation>Mendukung transliterasi multi bahasa</translation>
+	</message>
+	<message>
+		<source>Support MOV,AVI,MPEG</source>
+		<translation>Mendukung MOV, AVI, MPEG, dll</translation>
+	</message>
+	<message>
+		<source>Extract image</source>
+		<translation>Ekstrak gambar dari dokumen</translation>
+	</message>
+	<message>
+		<source>newdocermall</source>
+		<translation>Buat baru dari template</translation>
+	</message>
+	<message>
+		<source>kquicksearch</source>
+		<translation>Pencarian Cepat File</translation>
+	</message>
+	<message>
+		<source>kaudio2word</source>
+		<translation>Konversi Audio ke Teks</translation>
+	</message>
+	<message>
+		<source>kbatchcompress</source>
+		<translation>File Dikompresi</translation>
+	</message>
+	<message>
+		<source>kvideo2word</source>
+		<translation>Konversi Video ke Teks</translation>
+	</message>
+	<message>
+		<source>usewpsopen</source>
+		<translation>Buka dengan WPS</translation>
+	</message>
+	<message>
+		<source>promedocdiff</source>
+		<translation>Perbandingan Dokumen</translation>
+	</message>
+	<message>
+		<source>more item</source>
+		<translation>Lainnya</translation>
+	</message>
+	<message>
+		<source>photo</source>
+		<translation>Gambar</translation>
+	</message>
+	<message>
+		<source>multiphoto</source>
+		<translation>Galeri Foto</translation>
+	</message>
+	<message>
+		<source>yituflow</source>
+		<translation>Diagram Alur</translation>
+	</message>
+	<message>
+		<source>yitumind</source>
+		<translation>Peta Pikiran</translation>
+	</message>
+	<message>
+		<source>videoplayer</source>
+		<translation>Pemutaran Video</translation>
+	</message>
+	<message>
+		<source>datarecover</source>
+		<translation>Pemulihan Data</translation>
+	</message>
+	<message>
+		<source>recyclebindatarecover immediately</source>
+		<translation>Pulihkan Sekarang</translation>
+	</message>
+	<message>
+		<source>recyclebindatarecover</source>
+		<translation>Pulihkan File yang Terhapus dengan Salah</translation>
+	</message>
+	<message>
+		<source>freediskspace</source>
+		<translation>Bebaskan Ruang Disk</translation>
+	</message>
+	<message>
+		<source>cleandupfiles</source>
+		<translation>Bersihkan File Duplikat</translation>
+	</message>
+	<message>
+		<source>kaivideosummary</source>
+		<translation>Ringkasan Video AI</translation>
+	</message>
+	<message>
+		<source>search</source>
+		<translation>Cari Sekarang</translation>
+	</message>
+	<message>
+		<source>videocompress</source>
+		<translation>Kompresi Video</translation>
+	</message>
+	<message>
+		<source>videoconvertandgiflist</source>
+		<translation>Konversi Video ke Format/GIF</translation>
+	</message>
+	<message>
+		<source>videoconvertfmt</source>
+		<translation>Konversi Video ke Format</translation>
+	</message>
+	<message>
+		<source>videotools2gif</source>
+		<translation>Konversi Video ke GIF</translation>
+	</message>
+	<message>
+		<source>videohandlelist</source>
+		<translation>Ekstrak Audio/Video ke Teks</translation>
+	</message>
+	<message>
+		<source>extractaudio</source>
+		<translation>Ekstrak Audio</translation>
+	</message>
+	<message>
+		<source>videoedit</source>
+		<translation>Edit Video</translation>
+	</message>
+	<message>
+		<source>croprotate</source>
+		<translation>Potong dan Putar</translation>
+	</message>
+	<message>
+		<source>merge</source>
+		<translation>Gabung</translation>
+	</message>
+	<message>
+		<source>videomerge</source>
+		<translation>Gabung Video</translation>
+	</message>
+	<message>
+		<source>cut</source>
+		<translation>Potong</translation>
+	</message>
+	<message>
+		<source>removewatermark</source>
+		<translation>Hapus Watermark</translation>
+	</message>
+	<message>
+		<source>videoclip</source>
+		<translation>Pengeditan Video</translation>
+	</message>
+	<message>
+		<source>videoconvertcompresslist</source>
+		<translation>Konversi/Kompresi Video</translation>
+	</message>
+	<message>
+		<source>singlevideoconvert</source>
+		<translation>Konversi Video</translation>
+	</message>
+	<message>
+		<source>singlevideocompress</source>
+		<translation>Kompresi Video</translation>
+	</message>
+	<message>
+		<source>multivideoconvert</source>
+		<translation>Konversi Video Massal</translation>
+	</message>
+	<message>
+		<source>multivideocompress</source>
+		<translation>Kompresi Video Massal</translation>
+	</message>
+	<message>
+		<source>singlevideoclip</source>
+		<translation>Pengeditan Video</translation>
+	</message>
+	<message>
+		<source>multivideoclip</source>
+		<translation>Pengeditan Video Massal</translation>
+	</message>
+	<message>
+		<source>WPSAI</source>
+		<translation>WPS AI</translation>
+	</message>
+	<message>
+		<source>wpsAiDoc2ppt</source>
+		<translation>AI Membuat PPT</translation>
+	</message>
+	<message>
+		<source>pdfAiDoc2ppt</source>
+		<translation>AI Membuat PPT</translation>
+	</message>
+	<message>
+		<source>mindmapguide</source>
+		<translation>AI Membuat Mind Map</translation>
+	</message>
+	<message>
+		<source>aiPolish</source>
+		<translation>AI Meningkatkan Keseluruhan Teks</translation>
+	</message>
+	<message>
+		<source>aiReading</source>
+		<translation>AI Dokumen Tanya Jawab</translation>
+	</message>
+	<message>
+		<source>aiTypeDoc</source>
+		<translation>AI Penyusunan</translation>
+	</message>
+	<message>
+		<source>articleSummary</source>
+		<translation>AI Ringkasan Teks Keseluruhan</translation>
+	</message>
+	<message>
+		<source>wpscompress</source>
+		<translation>Ekstrak WPS</translation>
+	</message>
+	<message>
+		<source>open by wps</source>
+		<translation>Ekstrak dengan WPS</translation>
+	</message>
+	<message>
+		<source>extract to current folder</source>
+		<translation>Ekstrak ke folder saat ini</translation>
+	</message>
+	<message>
+		<source>extract to</source>
+		<translation>Ekstrak ke</translation>
+	</message>
+	<message>
+		<source>extract to...</source>
+		<translation>Ekstrak ke...</translation>
+	</message>
+	<message>
+		<source>aiDaAys</source>
+		<translation>Analisis Data AI</translation>
+	</message>
+	<message>
+		<source>ofdprint</source>
+		<translation>Cetak</translation>
+	</message>
+	<message>
+		<source>ofdconvert</source>
+		<translation>Konversi Format OFD</translation>
+	</message>
+	<message>
+		<source>ofd2pdf</source>
+		<translation>Konversi ke PDF</translation>
+	</message>
+	<message>
+		<source>ofd2photo</source>
+		<translation>Konversi ke gambar</translation>
+	</message>
+	<message>
+		<source>aiproductimage</source>
+		<translation>Gambar Produk AI</translation>
+	</message>
+
+	<!-- i18n -->
+	<message>
+		<source>Edit</source>
+		<translation>Edit</translation>
+	</message>
+	<message>
+		<source>Export to PDF</source>
+		<translation>Ekspor ke PDF</translation>
+	</message>
+	<message>
+		<source>photoeditrepair</source>
+		<translation>Edit Gambar</translation>
+	</message>
+	<message>
+		<source>Crop / BG Remove / Enhancer</source>
+		<translation>Pangkas / Hapus latar belakang / Peningkatan gambar</translation>
+	</message>
+	<message>
+		<source>Image to PDF / Extract Text</source>
+		<translation>Gambar ke PDF / Ekstrak teks</translation>
+	</message>
+	<message>
+		<source>Print Image / Compress Image</source>
+		<translation>Cetak gambar / Kompres gambar</translation>
+	</message>
+	<message>
+		<source>Crop</source>
+		<translation>Pangkas</translation>
+	</message>
+	<message>
+		<source>BG Removal</source>
+		<translation>Penghapusan Latar Belakang Cerdas</translation>
+	</message>
+	<message>
+		<source>AI Remove</source>
+		<translation>Penghapus Gambar</translation>
+	</message>
+	<message>
+		<source>AI Text Editing</source>
+		<translation>AI Ubah Teks Tanpa Jejak</translation>
+	</message>
+</tr>

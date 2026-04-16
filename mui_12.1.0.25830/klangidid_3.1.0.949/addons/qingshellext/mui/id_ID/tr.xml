@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tr version="1">
+    <message>
+        <source>Create synchronization this folder</source>
+        <translation>Buat sinkronisasi folder ini</translation>
+    </message>
+    <message>
+        <source>Cancel synchronization</source>
+        <translation>Batalkan sinkronisasi</translation>
+    </message>
+    <message>
+        <source>Sync Desktop Setting</source>
+        <translation>Sinkronkan Pengaturan Desktop</translation>
+    </message>
+    <message>
+        <source>Send to mobile</source>
+        <translation>Kirim ke ponsel</translation>
+    </message>
+    <message>
+        <source>Sync Desktop All Files</source>
+        <translation>Sinkronkan Semua File di Desktop</translation>
+    </message>
+    <message>
+        <source>send by WPS</source>
+        <translation>kirim melalui WPS</translation>
+    </message>
+    <message>
+        <source>send to my device by wps</source>
+        <translation>kirim ke perangkat saya melalui WPS</translation>
+    </message>
+    <message>
+        <source>Convert to online document</source>
+        <translation>Ubah menjadi dokumen online</translation>
+    </message>
+    <message>
+        <source>cancel share</source>
+        <translation>batalkan berbagi</translation>
+    </message>
+    <message>
+        <source>invite others synchronization</source>
+        <translation>mengundang orang lain untuk sinkronisasi</translation>
+    </message>
+    <message>
+        <source>Upload file</source>
+        <translation>Unggah ke WPS Cloud</translation>
+    </message>
+    <message>
+        <source>Upload or synchronization</source>
+        <translation>Unggah atau sinkronisasi</translation>
+    </message>
+    <message>
+        <source>Send to shared folder</source>
+        <translation>Kirim ke folder bersama</translation>
+    </message>
+</tr>

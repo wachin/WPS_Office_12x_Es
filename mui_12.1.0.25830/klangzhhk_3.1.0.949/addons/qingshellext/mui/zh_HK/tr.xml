@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tr version="1">
+    <message>
+        <source>Create synchronization this folder</source>
+        <translation>自動同步該資料夾</translation>
+    </message>
+    <message>
+        <source>Cancel synchronization</source>
+        <translation>取消同步</translation>
+    </message>
+    <message>
+        <source>Sync Desktop Setting</source>
+        <translation>桌面雲端同步設定</translation>
+    </message>
+    <message>
+        <source>Send to mobile</source>
+        <translation>我的設備</translation>
+    </message>
+    <message>
+        <source>Sync Desktop All Files</source>
+        <translation>同步桌面所有文件</translation>
+    </message>
+    <message>
+        <source>send by WPS</source>
+        <translation>透過WPS發送</translation>
+    </message>
+    <message>
+        <source>send to my device by wps</source>
+        <translation>通过WPS发送到我的设备</translation>
+    </message>
+    <message>
+        <source>Convert to online document</source>
+        <translation>轉為線上文檔</translation>
+    </message>
+    <message>
+        <source>cancel share</source>
+        <translation>取消共享</translation>
+    </message>
+    <message>
+        <source>invite others synchronization</source>
+        <translation>邀請其他人同步</translation>
+    </message>
+    <message>
+        <source>Upload file</source>
+        <translation>上載至 WPS Office Cloud</translation>
+    </message>
+    <message>
+        <source>Upload or synchronization</source>
+        <translation>上传或同步到WPS</translation>
+    </message>
+    <message>
+        <source>Send to shared folder</source>
+        <translation>發送至共享資料夾</translation>
+    </message>
+</tr>

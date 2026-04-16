@@ -1,0 +1,69 @@
+[
+	{
+		"id": "common-vip",
+		"text": "會員"
+	},
+	{
+		"id": "common-vip-1",
+		"text": "會員"
+	},
+	{
+		"id": "privilege_tips",
+		"text": "權益提示"
+	},
+	{
+		"id": "super-vip",
+		"text": "超級會員"
+	},
+	{
+		"id": "super-vip-short",
+		"text": "超會"
+	},
+	{
+		"id": "docerVipRes",
+		"text": "超會暢享"
+	},
+	{
+		"id": "freeRes",
+		"text": "免費資源"
+	},
+	{	"id": "free",
+		"text": "免費"
+	},
+	{
+		"id": "business",
+		"text": "商用"
+	},
+	{
+		"id": "presetRes",
+		"text": "預設樣式"
+	},
+	{
+		"id": "bussinessRes",
+		"text": "商用特權專屬"
+	},
+	{
+		"id": "retailRes",
+		"text": "零售特權專屬"
+	},
+	{
+		"id": "superVipRes",
+		"text": "超會暢享"
+	},
+	{
+		"id": "docerVipRes-ver",
+		"text": "超會暢享"
+	},
+	{
+		"id": "presetResource",
+		"text": "預設資源"
+	},
+	{
+		"id": "getCommercial",
+		"text": "取得商用授權"
+	},
+	{
+		"id": "premium",
+		"text": "會員"
+	}
+]

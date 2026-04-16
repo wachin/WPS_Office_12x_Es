@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["zh-hk/index"],{"5ab5":function(e,c,d){"use strict";d.r(c),c["default"]={1330108601:"取得小程式碼失敗","0e30f9d776":"網絡異常","3e1667c03a":"導入手機微信文件","9e4fb371d2":"小程式碼已失效","46c18ce781":"取得小程式碼失敗","8ef9e2e77b":"重新取得","11263c4432":"取得小程式碼中","0216d6511e":"請使用手機微信掃描並選擇文件上傳"}}}]);

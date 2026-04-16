@@ -1,0 +1,793 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tr version="1">
+	<message>
+		<source>pdf2office</source>
+		<translation>Konwertuj do innych formatów</translation>
+		</message>
+	<message>
+		<source>pdf2doc</source>
+		<translation>Konwertuj do Worda</translation>
+		</message>
+	<message>
+		<source>pdf2xls</source>
+		<translation>Konwertuj do Excela</translation>
+		</message>
+	<message>
+		<source>pdf2ppt</source>
+		<translation>Konwertuj do PPT</translation>
+		</message>
+	<message>
+		<source>pdf2imgpdf</source>
+		<translation>Konwertuj do pliku PDF z obrazem</translation>
+		</message>
+	<message>
+		<source>pdf2photo</source>
+		<translation>Konwertuj do obrazu</translation>
+		</message>
+	<message>
+		<source>pdfsplitmerge</source>
+		<translation>Scalanie/Rozdzielanie/Kompresowanie PDF</translation>
+		</message>
+	<message>
+		<source>pdfconvertsplitmerge</source>
+		<translation>Konwersja/Scalanie/Rozdzielanie PDF</translation>
+		</message>
+	<message>
+		<source>pdfsplit</source>
+		<translation>Rozdzielanie PDF</translation>
+		</message>
+	<message>
+		<source>pdfmerge</source>
+		<translation>Scalanie PDF</translation>
+		</message>
+	<message>
+		<source>photo2pdfocr</source>
+		<translation>Konwersja obrazu</translation>
+		</message>
+	<message>
+		<source>photo2pdf</source>
+		<translation>Do PDF</translation>
+		</message>
+	<message>
+		<source>pic2txt</source>
+		<translation>Wyodrębnij czysty tekst</translation>
+		</message>
+	<message>
+		<source>pic2table</source>
+		<translation>Do Excela</translation>
+		</message>
+	<message>
+		<source>file2pdf</source>
+		<translation>Do PDF</translation>
+		</message>
+	<message>
+		<source>aiocr2pdf</source>
+		<translation>Rozpoznawanie tekstu</translation>
+		</message>
+	<message>
+		<source>pdf2cad</source>
+		<translation>Do pliku CAD</translation>
+		</message>
+	<message>
+		<source>cad2pdf</source>
+		<translation>Plik CAD do PDF</translation>
+		</message>
+	<message>
+		<source>cad2pdflite</source>
+		<translation>CAD do PDF</translation>
+		</message>
+	<message>
+		<source>batchcompress</source>
+		<translation>Zmniejsz rozmiar PDF</translation>
+		</message>
+	<message>
+		<source>pdfbatchcompress</source>
+		<translation>Kompresja PDF</translation>
+		</message>
+	<message>
+		<source>papercheck</source>
+		<translation>Sprawdzanie oryginalności pracy naukowej</translation>
+		</message>
+	<message>
+		<source>batchprint</source>
+		<translation>Drukowanie masowe plików PDF</translation>
+		</message>
+	<message>
+		<source>multicomponentbatchprint</source>
+		<translation>Drukowanie masowe</translation>
+		</message>
+	<message>
+		<source>EditWithWPSPDF</source>
+		<translation>Edycja plików PDF za pomocą WPS</translation>
+		</message>
+	<message>
+		<source>EditPDF</source>
+		<translation>Edycja plików PDF</translation>
+		</message>
+	<message>
+		<source>photocadconvert</source>
+		<translation>Konwersja plików CAD na obrazy</translation>
+		</message>
+	<message>
+		<source>photocadconvertlite</source>
+		<translation>Konwersja CAD na obrazy</translation>
+		</message>
+	<message>
+		<source>photoprint</source>
+		<translation>Drukowanie obrazów</translation>
+		</message>
+	<message>
+		<source>photosplice</source>
+		<translation>Łączenie obrazów</translation>
+		</message>
+	<message>
+		<source>photobatchprintsplice</source>
+		<translation>Drukowanie/spiekanie wielu obrazów</translation>
+		</message>
+	<message>
+		<source>multiplephotoprint</source>
+		<translation>Drukowanie wielu obrazów</translation>
+		</message>
+	<message>
+		<source>multiplephotosplice</source>
+		<translation>Spiekanie wielu obrazów</translation>
+		</message>
+	<message>
+		<source>photoresize</source>
+		<translation>Zmiana rozmiaru</translation>
+		</message>
+	<message>
+		<source>photocompress</source>
+		<translation>Kompresja obrazu</translation>
+		</message>
+	<message>
+		<source>photorepairapp</source>
+		<translation>Naprawa obrazu</translation>
+		</message>
+	<message>
+		<source>photoscanapp</source>
+		<translation>Generowanie skanów</translation>
+		</message>
+	<message>
+		<source>photoconvert</source>
+		<translation>Konwersja formatu</translation>
+		</message>
+	<message>
+		<source>photosplitapp</source>
+		<translation>Podział obrazu</translation>
+		</message>
+	<message>
+		<source>photodesign</source>
+		<translation>Projektowanie obrazu</translation>
+		</message>
+	<message>
+		<source>newmenuchuangkitdesign</source>
+		<translation />
+		</message>
+	<message>
+		<source>photobatch</source>
+		<translation />
+		</message>
+	<message>
+		<source>photobatchcrop</source>
+		<translation />
+		</message>
+	<message>
+		<source>photobatchcorrect</source>
+		<translation />
+		</message>
+	<message>
+		<source>photobatchrotate</source>
+		<translation />
+		</message>
+	<message>
+		<source>photobatchtext</source>
+		<translation />
+		</message>
+	<message>
+		<source>photobatchwatermark</source>
+		<translation />
+		</message>
+	<message>
+		<source>photobatchcompress</source>
+		<translation />
+		</message>
+	<message>
+		<source>photobatchresize</source>
+		<translation />
+		</message>
+	<message>
+		<source>photobatchrename</source>
+		<translation />
+		</message>
+	<message>
+		<source>photobatchconvert</source>
+		<translation>批量 konwersji formatu</translation>
+		</message>
+	<message>
+		<source>kbatchconvertfile</source>
+		<translation>批量 zmiany formatu dokumentu</translation>
+		</message>
+	<message>
+		<source>photobatchmatting</source>
+		<translation>批量 wycinania obrazu</translation>
+		</message>
+	<message>
+		<source>more</source>
+		<translation>Więcej funkcji WPS</translation>
+		</message>
+	<message>
+		<source>Edit</source>
+		<translation>Edytuj</translation>
+		</message>
+	<message>
+		<source>System Drawing</source>
+		<translation>Rysowanie systemowe</translation>
+		</message>
+	<message>
+		<source>Photo Edit</source>
+		<translation>Edycja obrazu</translation>
+		</message>
+	<message>
+		<source>docsplitmerge</source>
+		<translation>Scalanie/rozdzielanie dokumentów</translation>
+		</message>
+	<message>
+		<source>docsplit</source>
+		<translation>Rozdzielanie dokumentów</translation>
+		</message>
+	<message>
+		<source>docmerge</source>
+		<translation>Scalanie dokumentów</translation>
+		</message>
+	<message>
+		<source>photoprintdevelop</source>
+		<translation>Drukowanie zdjęć/fotografii</translation>
+		</message>
+	<message>
+		<source>photodevelop</source>
+		<translation>Personalizowane wydruki zdjęć</translation>
+		</message>
+	<message>
+		<source>pdfbatchrename</source>
+		<translation>Zmiana nazw plików wsadowo</translation>
+		</message>
+	<message>
+		<source>hide</source>
+		<translation>Ukryj menu kontekstowe prawym przyciskiem myszy</translation>
+		</message>
+	<message>
+		<source>batchwatermark</source>
+		<translation>Dodawanie i usuwanie znaków wodnych wsadowo</translation>
+		</message>
+	<message>
+		<source>kapower</source>
+		<translation>Nagrywanie ekranu</translation>
+		</message>
+	<message>
+		<source>docbeautify</source>
+		<translation>Inteligentne upiększanie prezentacji PowerPoint</translation>
+		</message>
+	<message>
+		<source>kcdiskclean</source>
+		<translation>Zwolnij miejsce na dysku C</translation>
+		</message>
+	<message>
+		<source>Edit Property</source>
+		<translation>Modyfikacja właściwości</translation>
+		</message>
+	<message>
+		<source>Edit Property</source>
+		<translation>Modyfikacja właściwości</translation>
+		</message>
+	<message>
+		<source>Modify Format</source>
+		<translation>Zmień format</translation>
+		</message>
+	<message>
+		<source>File Type:</source>
+		<translation>Typ pliku:</translation>
+		</message>
+	<message>
+		<source>PictureFile</source>
+		<translation>Plik obrazu</translation>
+		</message>
+	<message>
+		<source>Support JPG, PNG, BMP and other formats</source>
+		<translation>Obsługiwane formaty: jpg, png, bmp i inne</translation>
+		</message>
+	<message>
+		<source>Format Conversion</source>
+		<translation>Konwersja formatu</translation>
+		</message>
+	<message>
+		<source>Resize</source>
+		<translation>Dostosuj rozmiar</translation>
+		</message>
+	<message>
+		<source>Size:</source>
+		<translation>Rozmiar:</translation>
+		</message>
+	<message>
+		<source>Occupied Space:</source>
+		<translation>Zajęta przestrzeń:</translation>
+		</message>
+	<message>
+		<source>Resolution:</source>
+		<translation>Rozdzielczość:</translation>
+		</message>
+	<message>
+		<source>Width</source>
+		<translation>Szerokość:</translation>
+		</message>
+	<message>
+		<source>Height</source>
+		<translation>Wysokość:</translation>
+		</message>
+	<message>
+		<source>Compression</source>
+		<translation>Kompresuj objętość</translation>
+		</message>
+	<message>
+		<source>supports compression to a specified size</source>
+		<translation>Obsługuje określony rozmiar kompresji</translation>
+		</message>
+	<message>
+		<source>modify size</source>
+		<translation>Zmień rozmiar</translation>
+		</message>
+	<message>
+		<source>support specified size and high quality</source>
+		<translation>Obsługuje określony rozmiar, jakość HD</translation>
+		</message>
+	<message>
+		<source>Picture Output</source>
+		<translation>Wyjście obrazu</translation>
+		</message>
+	<message>
+		<source>Name:</source>
+		<translation>Nazwa:</translation>
+		</message>
+	<message>
+		<source>Position:</source>
+		<translation>Lokalizacja:</translation>
+		</message>
+	<message>
+		<source>Print</source>
+		<translation>Drukuj</translation>
+		</message>
+	<message>
+		<source>support typesetting beautification and HD quality</source>
+		<translation>Obsługuje układ i jakość HD</translation>
+		</message>
+	<message>
+		<source>Normal</source>
+		<translation>Standardny</translation>
+		</message>
+	<message>
+		<source>Pix</source>
+		<translation>Piksel</translation>
+		</message>
+	<message>
+		<source>Improve image quality</source>
+		<translation>Poprawa jakości</translation>
+		</message>
+	<message>
+		<source>Output conversion</source>
+		<translation>Konwersja wyjściowa</translation>
+		</message>
+	<message>
+		<source>Support specified size and image quality repair</source>
+		<translation>Obsługa określonego rozmiaru, naprawa jakości obrazu</translation>
+		</message>
+	<message>
+		<source>Picture to PDF</source>
+		<translation>Konwersja obrazu na PDF</translation>
+		</message>
+	<message>
+		<source>Support single sheet output and multi sheet synthesis</source>
+		<translation>Obsługa wielu obrazów do połączenia</translation>
+		</message>
+	<message>
+		<source>gifedit</source>
+		<translation>Edycja plików GIF</translation>
+		</message>
+	<message>
+		<source>gifcompose</source>
+		<translation>Połączenie wielu obrazów w plik GIF</translation>
+		</message>
+	<message>
+		<source>cadedit</source>
+		<translation>Otwórz plik CAD</translation>
+		</message>
+	<message>
+		<source>kcadonlineguide</source>
+		<translation>Otwórz plik CAD</translation>
+		</message>
+	<message>
+		<source>3dblueprint</source>
+		<translation>Otwórz rysunek 2D·3D</translation>
+		</message>
+	<message>
+		<source>SpaceUsage:</source>
+		<translation>Zajmowane miejsce:</translation>
+		</message>
+	<message>
+		<source>Export as image</source>
+		<translation>Eksportuj jako obraz</translation>
+		</message>
+	<message>
+		<source>Export as Word</source>
+		<translation>Konwertuj do Worda</translation>
+		</message>
+	<message>
+		<source>Merge Splite</source>
+		<translation>Scal i podziel</translation>
+		</message>
+	<message>
+		<source>Export as pdf</source>
+		<translation>Konwertuj do PDF</translation>
+		</message>
+	<message>
+		<source>Export as img pdf</source>
+		<translation>Konwertuj do PDF obrazowego</translation>
+		</message>
+	<message>
+		<source>PageSize</source>
+		<translation>Rozmiar strony</translation>
+		</message>
+	<message>
+		<source>Compress</source>
+		<translation>Kompresuj</translation>
+		</message>
+	<message>
+		<source>Full text Translate</source>
+		<translation>Tłumaczenie całego tekstu</translation>
+		</message>
+	<message>
+		<source>Supports conversion to Word, Excel, PPT etc.</source>
+		<translation>Obsługuje konwersję do formatów Word, Excel, PPT itp.</translation>
+		</message>
+	<message>
+		<source>bytes</source>
+		<translation>bajt</translation>
+		</message>
+	<message>
+		<source>Output Conversion</source>
+		<translation>Konwersja wyjściowa</translation>
+		</message>
+	<message>
+		<source>PageCount:</source>
+		<translation>Zakres stron:</translation>
+		</message>
+	<message>
+		<source>WordCount:</source>
+		<translation>Liczba słów:</translation>
+		</message>
+	<message>
+		<source>Convert compression</source>
+		<translation>Konwersja i kompresja</translation>
+		</message>
+	<message>
+		<source>Support multilingual transliteration</source>
+		<translation>Obsługuje transkrypcję w wielu językach</translation>
+		</message>
+	<message>
+		<source>Support MOV,AVI,MPEG</source>
+		<translation>Obsługuje formaty MOV, AVI, MPEG itp.</translation>
+		</message>
+	<message>
+		<source>Extract image</source>
+		<translation>Wyodrębnianie obrazów z dokumentu</translation>
+		</message>
+	<message>
+		<source>newdocermall</source>
+		<translation>Nowy dokument z szablonu</translation>
+		</message>
+	<message>
+		<source>kquicksearch</source>
+		<translation>Szybkie wyszukiwanie plików</translation>
+		</message>
+	<message>
+		<source>kaudio2word</source>
+		<translation>Konwersja audio/wideo na tekst</translation>
+		</message>
+	<message>
+		<source>kbatchcompress</source>
+		<translation>Optymalizacja plików</translation>
+		</message>
+	<message>
+		<source>kvideo2word</source>
+		<translation>Konwersja wideo na tekst</translation>
+		</message>
+	<message>
+		<source>usewpsopen</source>
+		<translation>Otwórz za pomocą WPS</translation>
+		</message>
+	<message>
+		<source>promedocdiff</source>
+		<translation>Porównanie dokumentów</translation>
+		</message>
+	<message>
+		<source>more item</source>
+		<translation>Więcej</translation>
+		</message>
+	<message>
+		<source>yituflow</source>
+		<translation>Diagram przepływu</translation>
+		</message>
+	<message>
+		<source>yitumind</source>
+		<translation>Mapa myśli</translation>
+		</message>
+	<message>
+		<source>videoplayer</source>
+		<translation>Odtwarzanie wideo</translation>
+		</message>
+	<message>
+		<source>datarecover</source>
+		<translation>Przywracanie danych</translation>
+		</message>
+	<message>
+		<source>recyclebindatarecover immediately</source>
+		<translation>Natychmiastowa przywrócenie</translation>
+		</message>
+	<message>
+		<source>recyclebindatarecover</source>
+		<translation>Przywracanie przypadkowo usuniętych plików</translation>
+		</message>
+	<message>
+		<source>freediskspace</source>
+		<translation>Zwolnij miejsce na dysku</translation>
+		</message>
+	<message>
+		<source>cleandupfiles</source>
+		<translation>Usuń zduplikowane pliki</translation>
+		</message>
+	<message>
+		<source>kaivideosummary</source>
+		<translation>Podsumowanie wideo AI</translation>
+		</message>
+	<message>
+		<source>search</source>
+		<translation>Natychmiastowe wyszukiwanie</translation>
+		</message>
+	<message>
+		<source>sendbywps</source>
+		<translation>Wysyłanie przez WPS</translation>
+		</message>
+	<message>
+		<source>mydevice</source>
+		<translation>Moje urządzenie</translation>
+		</message>
+	<message>
+		<source>sendmydevicebywps</source>
+		<translation>Wysyłanie do mojego urządzenia za pomocą WPS</translation>
+		</message>
+	<message>
+		<source>videocompress</source>
+		<translation>Kompresja wideo</translation>
+		</message>
+	<message>
+		<source>videoconvertandgiflist</source>
+		<translation>Konwersja wideo / konwersja na GIF</translation>
+		</message>
+	<message>
+		<source>videoconvertfmt</source>
+		<translation>Konwersja wideo</translation>
+		</message>
+	<message>
+		<source>videotools2gif</source>
+		<translation>Konwersja na GIF</translation>
+		</message>
+	<message>
+		<source>videohandlelist</source>
+		<translation>Wyodrębnianie audio / konwersja wideo na tekst</translation>
+		</message>
+	<message>
+		<source>extractaudio</source>
+		<translation>Wyodrębnianie audio</translation>
+		</message>
+	<message>
+		<source>videoedit</source>
+		<translation>Edycja wideo</translation>
+		</message>
+	<message>
+		<source>croprotate</source>
+		<translation>Przycinanie i obracanie</translation>
+		</message>
+	<message>
+		<source>merge</source>
+		<translation>Łączenie</translation>
+		</message>
+	<message>
+		<source>videomerge</source>
+		<translation>Łączenie wideo</translation>
+		</message>
+	<message>
+		<source>cut</source>
+		<translation>Wycinanie</translation>
+		</message>
+	<message>
+		<source>removewatermark</source>
+		<translation>Usuwanie znaku wodnego</translation>
+		</message>
+	<message>
+		<source>videoclip</source>
+		<translation>Edycja wideo</translation>
+		</message>
+	<message>
+		<source>videoconvertcompresslist</source>
+		<translation>Konwersja/kompresja wideo</translation>
+		</message>
+	<message>
+		<source>singlevideoconvert</source>
+		<translation>Konwersja wideo</translation>
+		</message>
+	<message>
+		<source>singlevideocompress</source>
+		<translation>Kompresja wideo</translation>
+		</message>
+	<message>
+		<source>multivideoconvert</source>
+		<translation>Konwersja wideo wsadowa</translation>
+		</message>
+	<message>
+		<source>multivideocompress</source>
+		<translation>Kompresja wideo wsadowa</translation>
+		</message>
+	<message>
+		<source>singlevideoclip</source>
+		<translation>Edycja wideo</translation>
+		</message>
+	<message>
+		<source>multivideoclip</source>
+		<translation>Partia montażu wideo</translation>
+		</message>
+	<message>
+		<source>wpscompress</source>
+		<translation>Rozpakuj WPS</translation>
+		</message>
+	<message>
+		<source>open by wps</source>
+		<translation>Otwórz za pomocą WPS</translation>
+		</message>
+	<message>
+		<source>extract to current folder</source>
+		<translation>Rozpakuj do bieżącego folderu</translation>
+		</message>
+	<message>
+		<source>extract to</source>
+		<translation>Rozpakuj do</translation>
+		</message>
+	<message>
+		<source>extract to...</source>
+		<translation>Rozpakuj do...</translation>
+		</message>
+	<message>
+		<source>WPSAI</source>
+		<translation>WPS AI</translation>
+		</message>
+	<message>
+		<source>wpsAiDoc2ppt</source>
+		<translation>Generowanie prezentacji z dokumentów AI</translation>
+		</message>
+	<message>
+		<source>pdfAiDoc2ppt</source>
+		<translation>Generowanie prezentacji z dokumentów AI</translation>
+		</message>
+	<message>
+		<source>mindmapguide</source>
+		<translation>Mapa myśli z dokumentów AI</translation>
+		</message>
+	<message>
+		<source>aiPolish</source>
+		<translation>Pełna korekta tekstu AI</translation>
+		</message>
+	<message>
+		<source>aiReading</source>
+		<translation>AI Dokumenty i odpowiedzi</translation>
+		</message>
+	<message>
+		<source>aiTypeDoc</source>
+		<translation>AI Składanie</translation>
+		</message>
+	<message>
+		<source>articleSummary</source>
+		<translation>AI Podsumowanie pełnotekstowe</translation>
+		</message>
+	<message>
+		<source>caj2pdf</source>
+		<translation>Konwersja plików CAJ na PDF</translation>
+		</message>
+	<message>
+		<source>aiDaAys</source>
+		<translation>AI Analiza danych</translation>
+		</message>
+	<message>
+		<source>ofdprint</source>
+		<translation>Drukowanie</translation>
+		</message>
+	<message>
+		<source>ofdconvert</source>
+		<translation>Konwersja formatu OFD</translation>
+		</message>
+	<message>
+		<source>ofd2pdf</source>
+		<translation>Konwersja na PDF</translation>
+		</message>
+	<message>
+		<source>ofd2photo</source>
+		<translation>Konwersja na obraz</translation>
+		</message>
+	<message>
+		<source>aiproductimage</source>
+		<translation>AI Obraz produktu</translation>
+		</message>
+	
+	<!-- i18n -->
+	<message>
+		<source>Export to PDF</source>
+		<translation>Eksportuj do pliku PDF</translation>
+		</message>
+	<message>
+		<source>Extract Text</source>
+		<translation>Wyodrębnij tekst</translation>
+		</message>
+	<message>
+		<source>Convert PDF to Word</source>
+		<translation>PDF na Word</translation>
+		</message>
+	<message>
+		<source>Compress PDF</source>
+		<translation>Kompresuj PDF</translation>
+		</message>
+	<message>
+		<source>Edit PDF</source>
+		<translation>Edytuj pliki PDF</translation>
+		</message>
+	<message>
+		<source>Merge PDF</source>
+		<translation>Połącz PDF</translation>
+		</message>
+	<message>
+		<source>Edit Picture</source>
+		<translation>Edytuj obraz</translation>
+		</message>
+	<message>
+		<source>Split or Merge</source>
+		<translation>Podziel lub scal</translation>
+		</message>
+	<message>
+		<source>Open with WPS Office</source>
+		<translation>Otwórz za pomocą WPS Office</translation>
+		</message>
+	<message>
+		<source>Crop / BG Remove / Enhancer</source>
+		<translation>Przycinanie / Usuwanie tła / Ulepszanie obrazu</translation>
+		</message>
+	<message>
+		<source>Image to PDF / Extract Text</source>
+		<translation>Obraz do PDF / Wyodrębnianie tekstu</translation>
+		</message>
+	<message>
+		<source>Print Image / Compress Image</source>
+		<translation>Drukowanie obrazu / Kompresja obrazu</translation>
+		</message>
+	<message>
+		<source>Crop</source>
+		<translation>Przycinanie</translation>
+		</message>
+	<message>
+		<source>BG Removal</source>
+		<translation>Inteligentne usuwanie tła</translation>
+		</message>
+	<message>
+		<source>AI Remove</source>
+		<translation>Gumka do obrazów</translation>
+		</message>
+	<message>
+		<source>AI Text Editing</source>
+		<translation>AI bezśladowa zmiana tekstu</translation>
+		</message>
+	</tr>

@@ -1,0 +1,14 @@
+{
+	"author": "珠海金山辦公軟件有限公司",
+	"category": "文件備份",
+	"applicationName": "備份中心",
+	"customServiceDescription": "微信掃碼聯絡WPS客服",
+	"privDescription": "開通WPS會員尊享高級功能特權",
+	"privDesVip": "WPS會員尊享高級功能特權",
+	"privDesVipExpireSoon": "WPS會員即將到期，請加速續費",
+	"privDesSVip": "超級會員尊享多項高級功能特權和模板材料特權",
+	"privDesSVipExpireSoon": "超級會員即將過期，請盡快續費",
+	"titlebar": {
+		"appName":"備份中心"
+	}
+}

@@ -1,0 +1,793 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tr version="1">
+	<message>
+		<source>pdf2office</source>
+		<translation>แปลงเป็นรูปแบบอื่น</translation>
+		</message>
+	<message>
+		<source>pdf2doc</source>
+		<translation>แปลงเป็น Word</translation>
+		</message>
+	<message>
+		<source>pdf2xls</source>
+		<translation>แปลงเป็น Excel</translation>
+		</message>
+	<message>
+		<source>pdf2ppt</source>
+		<translation>แปลงเป็น PPT</translation>
+		</message>
+	<message>
+		<source>pdf2imgpdf</source>
+		<translation>แปลงเป็น PDF รูปภาพ</translation>
+		</message>
+	<message>
+		<source>pdf2photo</source>
+		<translation>แปลงเป็นรูปภาพ</translation>
+		</message>
+	<message>
+		<source>pdfsplitmerge</source>
+		<translation>รวม/แยก/บีบอัด PDF</translation>
+		</message>
+	<message>
+		<source>pdfconvertsplitmerge</source>
+		<translation>แปลง/รวม/แยก PDF</translation>
+		</message>
+	<message>
+		<source>pdfsplit</source>
+		<translation>แยก PDF</translation>
+		</message>
+	<message>
+		<source>pdfmerge</source>
+		<translation>รวม PDF</translation>
+		</message>
+	<message>
+		<source>photo2pdfocr</source>
+		<translation>แปลงรูปภาพ</translation>
+		</message>
+	<message>
+		<source>photo2pdf</source>
+		<translation>เป็น PDF</translation>
+		</message>
+	<message>
+		<source>pic2txt</source>
+		<translation>สกัดข้อความเท่านั้น</translation>
+		</message>
+	<message>
+		<source>pic2table</source>
+		<translation>เป็น Excel</translation>
+		</message>
+	<message>
+		<source>file2pdf</source>
+		<translation>เป็น PDF</translation>
+		</message>
+	<message>
+		<source>aiocr2pdf</source>
+		<translation>ระบุข้อความ</translation>
+		</message>
+	<message>
+		<source>pdf2cad</source>
+		<translation>เป็นไฟล์ CAD</translation>
+		</message>
+	<message>
+		<source>cad2pdf</source>
+		<translation>CAD ไฟล์ เป็น PDF</translation>
+		</message>
+	<message>
+		<source>cad2pdflite</source>
+		<translation>CAD เป็น PDF</translation>
+		</message>
+	<message>
+		<source>batchcompress</source>
+		<translation>ลดขนาด PDF</translation>
+		</message>
+	<message>
+		<source>pdfbatchcompress</source>
+		<translation>บีบอัด PDF</translation>
+		</message>
+	<message>
+		<source>papercheck</source>
+		<translation>ตรวจสอบความเหมือนในเอกสาร</translation>
+		</message>
+	<message>
+		<source>batchprint</source>
+		<translation>พิมพ์เป็นกลุ่ม PDF</translation>
+		</message>
+	<message>
+		<source>multicomponentbatchprint</source>
+		<translation>พิมพ์เป็นกลุ่ม</translation>
+		</message>
+	<message>
+		<source>EditWithWPSPDF</source>
+		<translation>ใช้ WPS แก้ไข PDF</translation>
+		</message>
+	<message>
+		<source>EditPDF</source>
+		<translation>แก้ไข PDF</translation>
+		</message>
+	<message>
+		<source>photocadconvert</source>
+		<translation>แปลงไฟล์ CAD เป็นรูปภาพ</translation>
+		</message>
+	<message>
+		<source>photocadconvertlite</source>
+		<translation>แปลง CAD เป็นรูปภาพ</translation>
+		</message>
+	<message>
+		<source>photoprint</source>
+		<translation>พิมพ์รูปภาพ</translation>
+		</message>
+	<message>
+		<source>photosplice</source>
+		<translation>รวมรูปภาพ</translation>
+		</message>
+	<message>
+		<source>photobatchprintsplice</source>
+		<translation>พิมพ์/ต่อภาพหลายภาพ</translation>
+		</message>
+	<message>
+		<source>multiplephotoprint</source>
+		<translation>พิมพ์หลายภาพ</translation>
+		</message>
+	<message>
+		<source>multiplephotosplice</source>
+		<translation>ต่อภาพหลายภาพ</translation>
+		</message>
+	<message>
+		<source>photoresize</source>
+		<translation>ปรับขนาด</translation>
+		</message>
+	<message>
+		<source>photocompress</source>
+		<translation>บีบอัดรูปภาพ</translation>
+		</message>
+	<message>
+		<source>photorepairapp</source>
+		<translation>ซ่อมแซมรูปภาพ</translation>
+		</message>
+	<message>
+		<source>photoscanapp</source>
+		<translation>สร้างเอกสารสแกน</translation>
+		</message>
+	<message>
+		<source>photoconvert</source>
+		<translation>แปลงรูปแบบ</translation>
+		</message>
+	<message>
+		<source>photosplitapp</source>
+		<translation>แบ่งรูปภาพ</translation>
+		</message>
+	<message>
+		<source>photodesign</source>
+		<translation>ออกแบบรูปภาพ</translation>
+		</message>
+	<message>
+		<source>newmenuchuangkitdesign</source>
+		<translation>รูปโปสเตอร์</translation>
+		</message>
+	<message>
+		<source>photobatch</source>
+		<translation>การประมวลผลรูปภาพเป็นชุด</translation>
+		</message>
+	<message>
+		<source>photobatchcrop</source>
+		<translation>การตัดเป็นชุด</translation>
+		</message>
+	<message>
+		<source>photobatchcorrect</source>
+		<translation>การปรับแก้ไขเป็นชุด</translation>
+		</message>
+	<message>
+		<source>photobatchrotate</source>
+		<translation>การหมุนเป็นชุด</translation>
+		</message>
+	<message>
+		<source>photobatchtext</source>
+		<translation>การเพิ่มข้อความเป็นชุด</translation>
+		</message>
+	<message>
+		<source>photobatchwatermark</source>
+		<translation>การเพิ่มลายน้ำเป็นชุด</translation>
+		</message>
+	<message>
+		<source>photobatchcompress</source>
+		<translation>การบีบอัดเป็นชุด</translation>
+		</message>
+	<message>
+		<source>photobatchresize</source>
+		<translation>การเปลี่ยนขนาดเป็นชุด</translation>
+		</message>
+	<message>
+		<source>photobatchrename</source>
+		<translation>การเปลี่ยนชื่อเป็นชุด</translation>
+		</message>
+	<message>
+		<source>photobatchconvert</source>
+		<translation>แปลงรูปแบบเป็นชุด</translation>
+		</message>
+	<message>
+		<source>kbatchconvertfile</source>
+		<translation>เปลี่ยนรูปแบบเอกสารเป็นชุด</translation>
+		</message>
+	<message>
+		<source>photobatchmatting</source>
+		<translation>คัดลอกภาพเป็นชุด</translation>
+		</message>
+	<message>
+		<source>more</source>
+		<translation>ฟังก์ชัน WPS เพิ่มเติม</translation>
+		</message>
+	<message>
+		<source>Edit</source>
+		<translation>แก้ไข</translation>
+		</message>
+	<message>
+		<source>System Drawing</source>
+		<translation>วาดภาพระบบ</translation>
+		</message>
+	<message>
+		<source>Photo Edit</source>
+		<translation>แก้ไขรูปภาพ</translation>
+		</message>
+	<message>
+		<source>docsplitmerge</source>
+		<translation>ผสาน/แยกเอกสาร</translation>
+		</message>
+	<message>
+		<source>docsplit</source>
+		<translation>แยกเอกสาร</translation>
+		</message>
+	<message>
+		<source>docmerge</source>
+		<translation>ผสานเอกสาร</translation>
+		</message>
+	<message>
+		<source>photoprintdevelop</source>
+		<translation>พิมพ์รูป/พิมพ์รูป</translation>
+		</message>
+	<message>
+		<source>photodevelop</source>
+		<translation>พิมพ์รูปปรับแต่ง</translation>
+		</message>
+	<message>
+		<source>pdfbatchrename</source>
+		<translation>เปลี่ยนชื่อเป็นกลุ่ม</translation>
+		</message>
+	<message>
+		<source>hide</source>
+		<translation>ซ่อนเมนูคลิกขวา</translation>
+		</message>
+	<message>
+		<source>batchwatermark</source>
+		<translation>เพิ่มลบลายน้ำเป็นกลุ่ม</translation>
+		</message>
+	<message>
+		<source>kapower</source>
+		<translation>บันทึกหน้าจอ</translation>
+		</message>
+	<message>
+		<source>docbeautify</source>
+		<translation>ปรับปรุง PPT อัตโนมัติ</translation>
+		</message>
+	<message>
+		<source>kcdiskclean</source>
+		<translation>เพิ่มพื้นที่ว่างใน C ไดรฟ์</translation>
+		</message>
+	<message>
+		<source>Edit Property</source>
+		<translation>แก้ไขคุณสมบัติ</translation>
+		</message>
+	<message>
+		<source>Edit Property</source>
+		<translation>แก้ไขคุณสมบัติ</translation>
+		</message>
+	<message>
+		<source>Modify Format</source>
+		<translation>แก้ไขรูปแบบ</translation>
+		</message>
+	<message>
+		<source>File Type:</source>
+		<translation>ประเภทไฟล์:</translation>
+		</message>
+	<message>
+		<source>PictureFile</source>
+		<translation>ไฟล์รูปภาพ</translation>
+		</message>
+	<message>
+		<source>Support JPG, PNG, BMP and other formats</source>
+		<translation>รองรับรูปแบบ jpg、png、bmp และอื่นๆ</translation>
+		</message>
+	<message>
+		<source>Format Conversion</source>
+		<translation>แปลงรูปแบบ</translation>
+		</message>
+	<message>
+		<source>Resize</source>
+		<translation>ปรับขนาด</translation>
+		</message>
+	<message>
+		<source>Size:</source>
+		<translation>ขนาด:</translation>
+		</message>
+	<message>
+		<source>Occupied Space:</source>
+		<translation>ใช้พื้นที่:</translation>
+		</message>
+	<message>
+		<source>Resolution:</source>
+		<translation>ความละเอียด:</translation>
+		</message>
+	<message>
+		<source>Width</source>
+		<translation>ความกว้าง:</translation>
+		</message>
+	<message>
+		<source>Height</source>
+		<translation>ความสูง:</translation>
+		</message>
+	<message>
+		<source>Compression</source>
+		<translation>บีบอัดขนาด</translation>
+		</message>
+	<message>
+		<source>supports compression to a specified size</source>
+		<translation>รองรับการบีบอัดขนาดที่กำหนด</translation>
+		</message>
+	<message>
+		<source>modify size</source>
+		<translation>ปรับขนาด</translation>
+		</message>
+	<message>
+		<source>support specified size and high quality</source>
+		<translation>รองรับขนาดและคุณภาพระดับสูงที่กำหนด</translation>
+		</message>
+	<message>
+		<source>Picture Output</source>
+		<translation>การส่งออกรูปภาพ</translation>
+		</message>
+	<message>
+		<source>Name:</source>
+		<translation>ชื่อ:</translation>
+		</message>
+	<message>
+		<source>Position:</source>
+		<translation>ตำแหน่ง:</translation>
+		</message>
+	<message>
+		<source>Print</source>
+		<translation>พิมพ์</translation>
+		</message>
+	<message>
+		<source>support typesetting beautification and HD quality</source>
+		<translation>รองรับการจัดเรียงและคุณภาพระดับสูง</translation>
+		</message>
+	<message>
+		<source>Normal</source>
+		<translation>ปกติ</translation>
+		</message>
+	<message>
+		<source>Pix</source>
+		<translation>พิกเซล</translation>
+		</message>
+	<message>
+		<source>Improve image quality</source>
+		<translation>ปรับคุณภาพ</translation>
+		</message>
+	<message>
+		<source>Output conversion</source>
+		<translation>แปลงเอาออก</translation>
+		</message>
+	<message>
+		<source>Support specified size and image quality repair</source>
+		<translation>รองรับขนาดที่กำหนด, ซ่อมแซมคุณภาพ</translation>
+		</message>
+	<message>
+		<source>Picture to PDF</source>
+		<translation>แปลงรูปภาพเป็น PDF</translation>
+		</message>
+	<message>
+		<source>Support single sheet output and multi sheet synthesis</source>
+		<translation>รองรับการผสมหลายรูป</translation>
+		</message>
+	<message>
+		<source>gifedit</source>
+		<translation>แก้ไข GIF</translation>
+		</message>
+	<message>
+		<source>gifcompose</source>
+		<translation>ผสมหลายรูปเป็น GIF</translation>
+		</message>
+	<message>
+		<source>cadedit</source>
+		<translation>เปิดไฟล์ CAD</translation>
+		</message>
+	<message>
+		<source>kcadonlineguide</source>
+		<translation>เปิดไฟล์ CAD</translation>
+		</message>
+	<message>
+		<source>3dblueprint</source>
+		<translation>เปิดภาพ 2D และ 3D</translation>
+		</message>
+	<message>
+		<source>SpaceUsage:</source>
+		<translation>พื้นที่ที่ใช้</translation>
+		</message>
+	<message>
+		<source>Export as image</source>
+		<translation>แปลงเป็นรูปภาพ</translation>
+		</message>
+	<message>
+		<source>Export as Word</source>
+		<translation>แปลงเป็น Word</translation>
+		</message>
+	<message>
+		<source>Merge Splite</source>
+		<translation>รวมและแยก</translation>
+		</message>
+	<message>
+		<source>Export as pdf</source>
+		<translation>แปลงเป็น PDF</translation>
+		</message>
+	<message>
+		<source>Export as img pdf</source>
+		<translation>แปลงเป็น PDF รูปภาพ</translation>
+		</message>
+	<message>
+		<source>PageSize</source>
+		<translation>ขนาดหน้ากระดาษ</translation>
+		</message>
+	<message>
+		<source>Compress</source>
+		<translation>บีบอัด</translation>
+		</message>
+	<message>
+		<source>Full text Translate</source>
+		<translation>แปลทั้งเอกสาร</translation>
+		</message>
+	<message>
+		<source>Supports conversion to Word, Excel, PPT etc.</source>
+		<translation>รองรับการแปลเป็น Word、Excel、PPT และอื่น ๆ</translation>
+		</message>
+	<message>
+		<source>bytes</source>
+		<translation>ไบต์</translation>
+		</message>
+	<message>
+		<source>Output Conversion</source>
+		<translation>การแปลเอกสาร</translation>
+		</message>
+	<message>
+		<source>PageCount:</source>
+		<translation>ช่วงหมายเลขหน้า:</translation>
+		</message>
+	<message>
+		<source>WordCount:</source>
+		<translation>จำนวนคำ:</translation>
+		</message>
+	<message>
+		<source>Convert compression</source>
+		<translation>การแปลและบีบอัด</translation>
+		</message>
+	<message>
+		<source>Support multilingual transliteration</source>
+		<translation>รองรับการแปลหลายภาษา</translation>
+		</message>
+	<message>
+		<source>Support MOV,AVI,MPEG</source>
+		<translation>รองรับ MOV、AVI、MPEG และอื่น ๆ</translation>
+		</message>
+	<message>
+		<source>Extract image</source>
+		<translation>สกัดรูปภาพจากเอกสาร</translation>
+		</message>
+	<message>
+		<source>newdocermall</source>
+		<translation>สร้างจากเทมเพลต</translation>
+		</message>
+	<message>
+		<source>kquicksearch</source>
+		<translation>ค้นหาไฟล์อย่างรวดเร็ว</translation>
+		</message>
+	<message>
+		<source>kaudio2word</source>
+		<translation>แปลงเสียง/วิดีโอเป็นข้อความ</translation>
+		</message>
+	<message>
+		<source>kbatchcompress</source>
+		<translation>ลดขนาดไฟล์</translation>
+		</message>
+	<message>
+		<source>kvideo2word</source>
+		<translation>แปลงวิดีโอเป็นข้อความ</translation>
+		</message>
+	<message>
+		<source>usewpsopen</source>
+		<translation>เปิดด้วย WPS</translation>
+		</message>
+	<message>
+		<source>promedocdiff</source>
+		<translation>เปรียบเทียบเอกสาร</translation>
+		</message>
+	<message>
+		<source>more item</source>
+		<translation>เพิ่มเติม</translation>
+		</message>
+	<message>
+		<source>yituflow</source>
+		<translation>แผนภาพกระบวนการ</translation>
+		</message>
+	<message>
+		<source>yitumind</source>
+		<translation>แผนภาพความคิด</translation>
+		</message>
+	<message>
+		<source>videoplayer</source>
+		<translation>เล่นวิดีโอ</translation>
+		</message>
+	<message>
+		<source>datarecover</source>
+		<translation>กู้ข้อมูล</translation>
+		</message>
+	<message>
+		<source>recyclebindatarecover immediately</source>
+		<translation>กู้ของทันที</translation>
+		</message>
+	<message>
+		<source>recyclebindatarecover</source>
+		<translation>กู้คืนไฟล์ที่ถูกลบ</translation>
+		</message>
+	<message>
+		<source>freediskspace</source>
+		<translation>คลายพื้นที่ดิสก์</translation>
+		</message>
+	<message>
+		<source>cleandupfiles</source>
+		<translation>ล้างไฟล์ที่ซ้ำซ้อน</translation>
+		</message>
+	<message>
+		<source>kaivideosummary</source>
+		<translation>สรุปวิดีโอด้วย AI</translation>
+		</message>
+	<message>
+		<source>search</source>
+		<translation>ค้นหาทันที</translation>
+		</message>
+	<message>
+		<source>sendbywps</source>
+		<translation>ส่งผ่าน WPS</translation>
+		</message>
+	<message>
+		<source>mydevice</source>
+		<translation>อุปกรณ์ของฉัน</translation>
+		</message>
+	<message>
+		<source>sendmydevicebywps</source>
+		<translation>ส่งผ่าน WPS ไปยังอุปกรณ์ของฉัน</translation>
+		</message>
+	<message>
+		<source>videocompress</source>
+		<translation>บีบอัดวิดีโอ</translation>
+		</message>
+	<message>
+		<source>videoconvertandgiflist</source>
+		<translation>แปลงรูปแบบวิดีโอ/เปลี่ยนเป็น GIF</translation>
+		</message>
+	<message>
+		<source>videoconvertfmt</source>
+		<translation>แปลงรูปแบบวิดีโอ</translation>
+		</message>
+	<message>
+		<source>videotools2gif</source>
+		<translation>แปลงเป็น GIF</translation>
+		</message>
+	<message>
+		<source>videohandlelist</source>
+		<translation>สร้างข้อความจากเสียง/วิดีโอ</translation>
+		</message>
+	<message>
+		<source>extractaudio</source>
+		<translation>สร้างเสียง</translation>
+		</message>
+	<message>
+		<source>videoedit</source>
+		<translation>แก้ไขวิดีโอ</translation>
+		</message>
+	<message>
+		<source>croprotate</source>
+		<translation>ตัดและหมุน</translation>
+		</message>
+	<message>
+		<source>merge</source>
+		<translation>รวม</translation>
+		</message>
+	<message>
+		<source>videomerge</source>
+		<translation>รวมวิดีโอ</translation>
+		</message>
+	<message>
+		<source>cut</source>
+		<translation>ตัด</translation>
+		</message>
+	<message>
+		<source>removewatermark</source>
+		<translation>ลบลายน้ำ</translation>
+		</message>
+	<message>
+		<source>videoclip</source>
+		<translation>การตัดวิดีโอ</translation>
+		</message>
+	<message>
+		<source>videoconvertcompresslist</source>
+		<translation>แปลง/บีบอัดวิดีโอ</translation>
+		</message>
+	<message>
+		<source>singlevideoconvert</source>
+		<translation>แปลงวิดีโอ</translation>
+		</message>
+	<message>
+		<source>singlevideocompress</source>
+		<translation>บีบอัดวิดีโอ</translation>
+		</message>
+	<message>
+		<source>multivideoconvert</source>
+		<translation>แปลงวิดีโอเป็นกลุ่ม</translation>
+		</message>
+	<message>
+		<source>multivideocompress</source>
+		<translation>บีบอัดวิดีโอเป็นกลุ่ม</translation>
+		</message>
+	<message>
+		<source>singlevideoclip</source>
+		<translation>การตัดวิดีโอ</translation>
+		</message>
+	<message>
+		<source>multivideoclip</source>
+		<translation>การตัดวิดีโอเป็นชุด</translation>
+		</message>
+	<message>
+		<source>wpscompress</source>
+		<translation>WPS การบีบอัด</translation>
+		</message>
+	<message>
+		<source>open by wps</source>
+		<translation>ใช้ WPS การบีบอัดเปิด</translation>
+		</message>
+	<message>
+		<source>extract to current folder</source>
+		<translation>บีบอัดไปยังโฟลเดอร์ปัจจุบัน</translation>
+		</message>
+	<message>
+		<source>extract to</source>
+		<translation>บีบอัดไปยัง</translation>
+		</message>
+	<message>
+		<source>extract to...</source>
+		<translation>บีบอัดไปยัง...</translation>
+		</message>
+	<message>
+		<source>WPSAI</source>
+		<translation>WPS AI</translation>
+		</message>
+	<message>
+		<source>wpsAiDoc2ppt</source>
+		<translation>AI สร้างงาน PPT</translation>
+		</message>
+	<message>
+		<source>pdfAiDoc2ppt</source>
+		<translation>AI สร้างงาน PPT</translation>
+		</message>
+	<message>
+		<source>mindmapguide</source>
+		<translation>AI สร้างแผนภาพความคิด</translation>
+		</message>
+	<message>
+		<source>aiPolish</source>
+		<translation>AI ปรับปรุงเนื้อหาทั้งหมด</translation>
+		</message>
+	<message>
+		<source>aiReading</source>
+		<translation>AI คำถามและคำตอบ</translation>
+		</message>
+	<message>
+		<source>aiTypeDoc</source>
+		<translation>AI การจัดหน้า</translation>
+		</message>
+	<message>
+		<source>articleSummary</source>
+		<translation>AI สรุปเนื้อหาทั้งหมด</translation>
+		</message>
+	<message>
+		<source>caj2pdf</source>
+		<translation>แปลงไฟล์ CAJ เป็น PDF</translation>
+		</message>
+	<message>
+		<source>aiDaAys</source>
+		<translation>AI การวิเคราะห์ข้อมูล</translation>
+		</message>
+	<message>
+		<source>ofdprint</source>
+		<translation>พิมพ์</translation>
+		</message>
+	<message>
+		<source>ofdconvert</source>
+		<translation>การแปลงรูปแบบ OFD</translation>
+		</message>
+	<message>
+		<source>ofd2pdf</source>
+		<translation>แปลงเป็น PDF</translation>
+		</message>
+	<message>
+		<source>ofd2photo</source>
+		<translation>แปลงเป็นรูปภาพ</translation>
+		</message>
+	<message>
+		<source>aiproductimage</source>
+		<translation>AI ภาพสินค้า</translation>
+		</message>
+		
+	<!-- i18n -->
+	<message>
+		<source>Export to PDF</source>
+		<translation>ส่งออกเป็น PDF</translation>
+		</message>
+	<message>
+		<source>Extract Text</source>
+		<translation>แยกข้อความ</translation>
+		</message>
+	<message>
+		<source>Convert PDF to Word</source>
+		<translation>PDF เป็น Word</translation>
+		</message>
+	<message>
+		<source>Compress PDF</source>
+		<translation>การบีบอัด PDF</translation>
+		</message>
+	<message>
+		<source>Edit PDF</source>
+		<translation>แก้ไข PDF</translation>
+		</message>
+	<message>
+		<source>Merge PDF</source>
+		<translation>ผสาน PDF</translation>
+		</message>
+	<message>
+		<source>Edit Picture</source>
+		<translation>แก้ไขรูปภาพ</translation>
+		</message>
+	<message>
+		<source>Split or Merge</source>
+		<translation>แยก หรือ ผสาน</translation>
+		</message>
+	<message>
+		<source>Open with WPS Office</source>
+		<translation>เปิดด้วย WPS Office</translation>
+		</message>
+	<message>
+		<source>Crop / BG Remove / Enhancer</source>
+		<translation>ครอบตัด / ลบพื้นหลัง / ปรับปรุงภาพ</translation>
+		</message>
+	<message>
+		<source>Image to PDF / Extract Text</source>
+		<translation>แปลงภาพเป็น PDF / แยกข้อความ</translation>
+		</message>
+	<message>
+		<source>Print Image / Compress Image</source>
+		<translation>พิมพ์ภาพ / บีบอัดภาพ</translation>
+		</message>
+	<message>
+		<source>Crop</source>
+		<translation>ครอบตัด </translation>
+		</message>
+	<message>
+		<source>BG Removal</source>
+		<translation>การลบพื้นหลังอัจฉริยะ</translation>
+		</message>
+	<message>
+		<source>AI Remove</source>
+		<translation>ยางลบรูปภาพ</translation>
+		</message>
+	<message>
+		<source>AI Text Editing</source>
+		<translation>AI เปลี่ยนคำแบบไร้ร่องรอย</translation>
+		</message>
+	</tr>

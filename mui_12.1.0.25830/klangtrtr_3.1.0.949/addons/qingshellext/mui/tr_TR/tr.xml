@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tr version="1">
+    <message>
+        <source>Create synchronization this folder</source>
+        <translation>Bu klasörü senkronize et</translation>
+    </message>
+    <message>
+        <source>Cancel synchronization</source>
+        <translation>Senkranizasyonu iptal</translation>
+    </message>
+    <message>
+        <source>Sync Desktop Setting</source>
+        <translation>Masaüstü Ayarını Senkronize</translation>
+    </message>
+    <message>
+        <source>Send to mobile</source>
+        <translation>Mobil cihaza gönder</translation>
+    </message>
+    <message>
+        <source>Sync Desktop All Files</source>
+        <translation>Tüm Masaüstü Dosyalarını Senkronize</translation>
+    </message>
+    <message>
+        <source>send by WPS</source>
+        <translation>WPS ile gönder</translation>
+    </message>
+    <message>
+        <source>send to my device by wps</source>
+        <translation>WPS ile benim cihazıma gönder</translation>
+    </message>
+    <message>
+        <source>Convert to online document</source>
+        <translation>Çevrimiçi belgeye dönüştür</translation>
+    </message>
+    <message>
+        <source>cancel share</source>
+        <translation>Paylaşımı iptal</translation>
+    </message>
+    <message>
+        <source>invite others synchronization</source>
+        <translation>Diğerlerini senkronizasyona davet</translation>
+    </message>
+    <message>
+        <source>Upload file</source>
+        <translation>Dosya yükle</translation>
+    </message>
+    <message>
+        <source>Upload or synchronization</source>
+        <translation>Yükleme veya senkronizasyon</translation>
+    </message>
+    <message>
+        <source>Send to shared folder</source>
+        <translation>Paylaşılan klasöre gönder</translation>
+    </message>
+</tr>

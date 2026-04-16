@@ -1,0 +1,757 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tr version="1">
+	<message>
+		<source>pdf2office</source>
+		<translation>Преобразовать в другой формат</translation>
+	</message>
+	<message>
+		<source>pdf2doc</source>
+		<translation>Преобразовать в Word</translation>
+	</message>
+	<message>
+		<source>pdf2xls</source>
+		<translation>Преобразовать в Excel</translation>
+	</message>
+	<message>
+		<source>pdf2ppt</source>
+		<translation>Преобразовать в PPT</translation>
+	</message>
+	<message>
+		<source>pdf2imgpdf</source>
+		<translation>Преобразовать в PDF с изображениями</translation>
+	</message>
+	<message>
+		<source>pdf2photo</source>
+		<translation>Преобразовать в изображение</translation>
+	</message>
+	<message>
+		<source>pdfsplitmerge</source>
+		<translation>Объединить/разделить/сжать PDF</translation>
+	</message>
+	<message>
+		<source>pdfconvertsplitmerge</source>
+		<translation>Преобразовать/объединить/разделить PDF</translation>
+	</message>
+	<message>
+		<source>pdfsplit</source>
+		<translation>Разделить PDF</translation>
+	</message>
+	<message>
+		<source>pdfmerge</source>
+		<translation>Объединить PDF</translation>
+	</message>
+	<message>
+		<source>photo2pdfocr</source>
+		<translation>Преобразование изображения</translation>
+	</message>
+	<message>
+		<source>photo2pdf</source>
+		<translation>в PDF</translation>
+	</message>
+	<message>
+		<source>pic2txt</source>
+		<translation>Извлечение чистого текста</translation>
+	</message>
+	<message>
+		<source>pic2table</source>
+		<translation>в Excel</translation>
+	</message>
+	<message>
+		<source>file2pdf</source>
+		<translation>в PDF</translation>
+	</message>
+	<message>
+		<source>aiocr2pdf</source>
+		<translation>Распознавание текста</translation>
+	</message>
+	<message>
+		<source>pdf2cad</source>
+		<translation>в файл CAD</translation>
+	</message>
+	<message>
+		<source>cad2pdf</source>
+		<translation>Файл CAD в PDF</translation>
+	</message>
+	<message>
+		<source>cad2pdflite</source>
+		<translation>CAD в PDF</translation>
+	</message>
+	<message>
+		<source>caj2pdf</source>
+		<translation>Файл CAJ в PDF</translation>
+	</message>
+	<message>
+		<source>batchcompress</source>
+		<translation>Уменьшить размер PDF</translation>
+	</message>
+	<message>
+		<source>pdfbatchcompress</source>
+		<translation>Сжатие PDF</translation>
+	</message>
+	<message>
+		<source>papercheck</source>
+		<translation>Проверка оригинальности статьи</translation>
+	</message>
+	<message>
+		<source>batchprint</source>
+		<translation>Печать PDF в пакетном режиме</translation>
+	</message>
+	<message>
+		<source>multicomponentbatchprint</source>
+		<translation>Пакетная печать</translation>
+	</message>
+	<message>
+		<source>EditWithWPSPDF</source>
+		<translation>Использование WPS для редактирования PDF</translation>
+	</message>
+	<message>
+		<source>EditPDF</source>
+		<translation>Редактирование PDF</translation>
+	</message>
+	<message>
+		<source>photocadconvert</source>
+		<translation>Преобразование файлов CAD в изображения</translation>
+	</message>
+	<message>
+		<source>photocadconvertlite</source>
+		<translation>Преобразование CAD в изображения</translation>
+	</message>
+	<message>
+		<source>photoprint</source>
+		<translation>Печать изображений</translation>
+	</message>
+	<message>
+		<source>photosplice</source>
+		<translation>Слияние изображений</translation>
+	</message>
+	<message>
+		<source>photobatchprintsplice</source>
+		<translation>Печать/слияние нескольких изображений</translation>
+	</message>
+	<message>
+		<source>multiplephotoprint</source>
+		<translation>Печать нескольких изображений</translation>
+	</message>
+	<message>
+		<source>multiplephotosplice</source>
+		<translation>Слияние нескольких изображений</translation>
+	</message>
+	<message>
+		<source>photoresizeconvert</source>
+		<translation>Изменение свойств изображения</translation>
+	</message>
+	<message>
+		<source>photoresize</source>
+		<translation>Изменение размера</translation>
+	</message>
+	<message>
+		<source>photocompress</source>
+		<translation>Сжатие изображения</translation>
+	</message>
+	<message>
+		<source>photorepairapp</source>
+		<translation>Восстановление изображения</translation>
+	</message>
+	<message>
+		<source>photoscanapp</source>
+		<translation>Создание отсканированных документов</translation>
+	</message>
+	<message>
+		<source>photoconvert</source>
+		<translation>Преобразование формата</translation>
+	</message>
+	<message>
+		<source>photosplitapp</source>
+		<translation>Разделение изображений</translation>
+	</message>
+	<message>
+		<source>photodesign</source>
+		<translation>Дизайн изображений</translation>
+	</message>
+	<message>
+		<source>newmenuchuangkitdesign</source>
+		<translation>Постеры</translation>
+	</message>
+	<message>
+		<source>photobatch</source>
+		<translation>Пакетная обработка изображений</translation>
+	</message>
+	<message>
+		<source>photobatchcrop</source>
+		<translation>Пакетное обрезание</translation>
+	</message>
+	<message>
+		<source>photobatchcorrect</source>
+		<translation>Пакетная коррекция</translation>
+	</message>
+	<message>
+		<source>photobatchrotate</source>
+		<translation>Пакетное вращение</translation>
+	</message>
+	<message>
+		<source>photobatchtext</source>
+		<translation>Пакетное добавление текста</translation>
+	</message>
+	<message>
+		<source>photobatchwatermark</source>
+		<translation>Пакетное добавление водяных знаков</translation>
+	</message>
+	<message>
+		<source>photobatchcompress</source>
+		<translation>Пакетное сжатие</translation>
+	</message>
+	<message>
+		<source>photobatchresize</source>
+		<translation>Массовое изменение размера</translation>
+	</message>
+	<message>
+		<source>photobatchrename</source>
+		<translation>Массовое переименование</translation>
+	</message>
+	<message>
+		<source>photobatchconvert</source>
+		<translation>Массовое преобразование формата</translation>
+	</message>
+	<message>
+		<source>kbatchconvertfile</source>
+		<translation>Массовое изменение формата документа</translation>
+	</message>
+	<message>
+		<source>photobatchmatting</source>
+		<translation>Массовое выделение изображения</translation>
+	</message>
+	<message>
+		<source>more</source>
+		<translation>Дополнительные функции WPS</translation>
+	</message>
+	<message>
+		<source>docsplitmerge</source>
+		<translation>Объединение/разделение документов</translation>
+	</message>
+	<message>
+		<source>docsplit</source>
+		<translation>Разделение документа</translation>
+	</message>
+	<message>
+		<source>docmerge</source>
+		<translation>Объединение документов</translation>
+	</message>
+	<message>
+		<source>photoprintdevelop</source>
+		<translation>Печать изображений/фото</translation>
+	</message>
+	<message>
+		<source>photodevelop</source>
+		<translation>Индивидуальная печать фотографий</translation>
+	</message>
+	<message>
+		<source>pdfbatchrename</source>
+		<translation>Пакетное переименование</translation>
+	</message>
+	<message>
+		<source>hide</source>
+		<translation>Скрыть контекстное меню</translation>
+	</message>
+	<message>
+		<source>batchwatermark</source>
+		<translation>Пакетное добавление и удаление водяных знаков</translation>
+	</message>
+	<message>
+		<source>kapower</source>
+		<translation>Запись экрана</translation>
+	</message>
+	<message>
+		<source>docbeautify</source>
+		<translation>Улучшение презентаций PowerPoint</translation>
+	</message>
+	<message>
+		<source>kcdiskclean</source>
+		<translation>Освобождение места на диске C</translation>
+	</message>
+	<message>
+		<source>Edit Property</source>
+		<translation>Изменение свойств</translation>
+	</message>
+	<message>
+		<source>Edit Property</source>
+		<translation>Изменение свойств</translation>
+	</message>
+	<message>
+		<source>Modify Format</source>
+		<translation>Изменение формата</translation>
+	</message>
+	<message>
+		<source>File Type:</source>
+		<translation>Тип файла:</translation>
+	</message>
+	<message>
+		<source>PictureFile</source>
+		<translation>Графический файл</translation>
+	</message>
+	<message>
+		<source>Support JPG, PNG, BMP and other formats</source>
+		<translation>Поддерживаемые форматы: jpg, png, bmp и другие</translation>
+	</message>
+	<message>
+		<source>Format Conversion</source>
+		<translation>Преобразование формата</translation>
+	</message>
+	<message>
+		<source>Resize</source>
+		<translation>Изменение размера</translation>
+	</message>
+	<message>
+		<source>Size:</source>
+		<translation>Размер:</translation>
+	</message>
+	<message>
+		<source>Occupied Space:</source>
+		<translation>Занимаемое место:</translation>
+	</message>
+	<message>
+		<source>Resolution:</source>
+		<translation>Разрешение:</translation>
+	</message>
+	<message>
+		<source>Width</source>
+		<translation>Ширина:</translation>
+	</message>
+	<message>
+		<source>Height</source>
+		<translation>Высота:</translation>
+	</message>
+	<message>
+		<source>Compression</source>
+		<translation>Сжать объем</translation>
+	</message>
+	<message>
+		<source>supports compression to a specified size</source>
+		<translation>Поддержка сжатия до указанного размера</translation>
+	</message>
+	<message>
+		<source>modify size</source>
+		<translation>Изменить размер</translation>
+	</message>
+	<message>
+		<source>support specified size and high quality</source>
+		<translation>Поддержка указанного размера и высокого качества</translation>
+	</message>
+	<message>
+		<source>Picture Output</source>
+		<translation>Вывод изображения</translation>
+	</message>
+	<message>
+		<source>Name:</source>
+		<translation>Имя:</translation>
+	</message>
+	<message>
+		<source>Position:</source>
+		<translation>Местоположение:</translation>
+	</message>
+	<message>
+		<source>Print</source>
+		<translation>Печать</translation>
+	</message>
+	<message>
+		<source>support typesetting beautification and HD quality</source>
+		<translation>Поддержка оформления и высокого качества</translation>
+	</message>
+	<message>
+		<source>Normal</source>
+		<translation>Обычный</translation>
+	</message>
+	<message>
+		<source>Pix</source>
+		<translation>Пиксели</translation>
+	</message>
+	<message>
+		<source>Improve image quality</source>
+		<translation>Улучшение качества изображения</translation>
+	</message>
+	<message>
+		<source>Output conversion</source>
+		<translation>Преобразование вывода</translation>
+	</message>
+	<message>
+		<source>Support specified size and image quality repair</source>
+		<translation>Поддержка указанных размеров, восстановление качества изображения</translation>
+	</message>
+	<message>
+		<source>Picture to PDF</source>
+		<translation>Преобразование изображения в PDF</translation>
+	</message>
+	<message>
+		<source>Support single sheet output and multi sheet synthesis</source>
+		<translation>Поддержка слияния нескольких изображений</translation>
+	</message>
+	<message>
+		<source>gifedit</source>
+		<translation>Редактирование GIF</translation>
+	</message>
+	<message>
+		<source>gifcompose</source>
+		<translation>Создание GIF из нескольких изображений</translation>
+	</message>
+	<message>
+		<source>cadedit</source>
+		<translation>Открытие файлов CAD</translation>
+	</message>
+	<message>
+		<source>kcadonlineguide</source>
+		<translation>Открытие файлов CAD</translation>
+	</message>
+	<message>
+		<source>3dblueprint</source>
+		<translation>Открыть чертеж 2D·3D</translation>
+	</message>
+	<message>
+		<source>SpaceUsage:</source>
+		<translation>Занимаемое место:</translation>
+	</message>
+	<message>
+		<source>Export as image</source>
+		<translation>Экспорт в изображение</translation>
+	</message>
+	<message>
+		<source>Export as Word</source>
+		<translation>Преобразовать в Word</translation>
+	</message>
+	<message>
+		<source>Merge Splite</source>
+		<translation>Объединить и разделить</translation>
+	</message>
+	<message>
+		<source>Export as pdf</source>
+		<translation>Преобразовать в PDF</translation>
+	</message>
+	<message>
+		<source>Export as img pdf</source>
+		<translation>Преобразовать в PDF изображения</translation>
+	</message>
+	<message>
+		<source>PageSize</source>
+		<translation>Размер страницы</translation>
+	</message>
+	<message>
+		<source>Compress</source>
+		<translation>Сжать</translation>
+	</message>
+	<message>
+		<source>Full text Translate</source>
+		<translation>Перевести весь текст</translation>
+	</message>
+	<message>
+		<source>Supports conversion to Word, Excel, PPT etc.</source>
+		<translation>Поддерживает преобразование в Word, Excel, PPT и другие</translation>
+	</message>
+	<message>
+		<source>bytes</source>
+		<translation>байт</translation>
+	</message>
+	<message>
+		<source>Output Conversion</source>
+		<translation>конвертация вывода</translation>
+	</message>
+	<message>
+		<source>PageCount:</source>
+		<translation>диапазон страниц:</translation>
+	</message>
+	<message>
+		<source>WordCount:</source>
+		<translation>количество слов:</translation>
+	</message>
+	<message>
+		<source>Convert compression</source>
+		<translation>сжатие конвертации</translation>
+	</message>
+	<message>
+		<source>Support multilingual transliteration</source>
+		<translation>поддерживает транскрипцию на нескольких языках</translation>
+	</message>
+	<message>
+		<source>Support MOV,AVI,MPEG</source>
+		<translation>поддерживает MOV, AVI, MPEG и другие</translation>
+	</message>
+	<message>
+		<source>Extract image</source>
+		<translation>извлечение изображений из документа</translation>
+	</message>
+	<message>
+		<source>newdocermall</source>
+		<translation>создание нового на основе шаблона</translation>
+	</message>
+	<message>
+		<source>kquicksearch</source>
+		<translation>Быстрый поиск файлов</translation>
+	</message>
+	<message>
+		<source>kaudio2word</source>
+		<translation>Преобразование аудио в текст</translation>
+	</message>
+	<message>
+		<source>kbatchcompress</source>
+		<translation>Оптимизация файлов</translation>
+	</message>
+	<message>
+		<source>kvideo2word</source>
+		<translation>Преобразование видео в текст</translation>
+	</message>
+	<message>
+		<source>usewpsopen</source>
+		<translation>Открыть с помощью WPS</translation>
+	</message>
+	<message>
+		<source>promedocdiff</source>
+		<translation>Сравнение документов</translation>
+	</message>
+	<message>
+		<source>more item</source>
+		<translation>Еще</translation>
+	</message>
+	<message>
+		<source>photo</source>
+		<translation>Изображение</translation>
+	</message>
+	<message>
+		<source>multiphoto</source>
+		<translation>Несколько изображений</translation>
+	</message>
+	<message>
+		<source>yituflow</source>
+		<translation>Схема</translation>
+	</message>
+	<message>
+		<source>yitumind</source>
+		<translation>Ментальная карта</translation>
+	</message>
+	<message>
+		<source>videoplayer</source>
+		<translation>Воспроизведение видео</translation>
+	</message>
+	<message>
+		<source>datarecover</source>
+		<translation>Восстановление данных</translation>
+	</message>
+	<message>
+		<source>recyclebindatarecover immediately</source>
+		<translation>Восстановить немедленно</translation>
+	</message>
+	<message>
+		<source>recyclebindatarecover</source>
+		<translation>Восстановление случайно удаленных файлов</translation>
+	</message>
+	<message>
+		<source>freediskspace</source>
+		<translation>Освободить диск</translation>
+	</message>
+	<message>
+		<source>cleandupfiles</source>
+		<translation>Очистить повторяющиеся файлы</translation>
+	</message>
+	<message>
+		<source>kaivideosummary</source>
+		<translation>AI-сводка видео</translation>
+	</message>
+	<message>
+		<source>search</source>
+		<translation>Немедленный поиск</translation>
+	</message>
+	<message>
+		<source>videocompress</source>
+		<translation>Сжатие видео</translation>
+	</message>
+	<message>
+		<source>videoconvertandgiflist</source>
+		<translation>Конвертировать видео в GIF</translation>
+	</message>
+	<message>
+		<source>videoconvertfmt</source>
+		<translation>Конвертировать видео</translation>
+	</message>
+	<message>
+		<source>videotools2gif</source>
+		<translation>Конвертировать в GIF</translation>
+	</message>
+	<message>
+		<source>videohandlelist</source>
+		<translation>Извлечь аудио/текст из видео</translation>
+	</message>
+	<message>
+		<source>extractaudio</source>
+		<translation>Извлечь аудио</translation>
+	</message>
+	<message>
+		<source>videoedit</source>
+		<translation>Редактировать видео</translation>
+	</message>
+	<message>
+		<source>croprotate</source>
+		<translation>Обрезать и повернуть</translation>
+	</message>
+	<message>
+		<source>merge</source>
+		<translation>Объединить</translation>
+	</message>
+	<message>
+		<source>videomerge</source>
+		<translation>Объединить видео</translation>
+	</message>
+	<message>
+		<source>cut</source>
+		<translation>Вырезать</translation>
+	</message>
+	<message>
+		<source>removewatermark</source>
+		<translation>Удаление водяных знаков</translation>
+	</message>
+	<message>
+		<source>videoclip</source>
+		<translation>Редактирование видео</translation>
+	</message>
+	<message>
+		<source>videoconvertcompresslist</source>
+		<translation>Конвертация/сжатие видео</translation>
+	</message>
+	<message>
+		<source>singlevideoconvert</source>
+		<translation>Конвертация видео</translation>
+	</message>
+	<message>
+		<source>singlevideocompress</source>
+		<translation>Сжатие видео</translation>
+	</message>
+	<message>
+		<source>multivideoconvert</source>
+		<translation>Пакетная конвертация видео</translation>
+	</message>
+	<message>
+		<source>multivideocompress</source>
+		<translation>Пакетное сжатие видео</translation>
+	</message>
+	<message>
+		<source>singlevideoclip</source>
+		<translation>Редактирование видео</translation>
+	</message>
+	<message>
+		<source>multivideoclip</source>
+		<translation>Пакетное редактирование видео</translation>
+	</message>
+	<message>
+		<source>WPSAI</source>
+		<translation>Искусственный интеллект WPS</translation>
+	</message>
+	<message>
+		<source>wpsAiDoc2ppt</source>
+		<translation>AI создание презентации</translation>
+	</message>
+	<message>
+		<source>pdfAiDoc2ppt</source>
+		<translation>AI создание презентации</translation>
+	</message>
+	<message>
+		<source>mindmapguide</source>
+		<translation>AI создание ментальной карты</translation>
+	</message>
+	<message>
+		<source>aiPolish</source>
+		<translation>AI редактирование текста</translation>
+	</message>
+	<message>
+		<source>aiReading</source>
+		<translation>AI вопросы и ответы в документе</translation>
+	</message>
+	<message>
+		<source>aiTypeDoc</source>
+		<translation>AI верстка</translation>
+	</message>
+	<message>
+		<source>articleSummary</source>
+		<translation>AI подготовка сводки</translation>
+	</message>
+	<message>
+		<source>wpscompress</source>
+		<translation>Распаковать с помощью WPS</translation>
+	</message>
+	<message>
+		<source>open by wps</source>
+		<translation>Открыть с помощью WPS</translation>
+	</message>
+	<message>
+		<source>extract to current folder</source>
+		<translation>Распаковать в текущую папку</translation>
+	</message>
+	<message>
+		<source>extract to</source>
+		<translation>Распаковать в</translation>
+	</message>
+	<message>
+		<source>extract to...</source>
+		<translation>Распаковать в...</translation>
+	</message>
+	<message>
+		<source>aiDaAys</source>
+		<translation>Анализ данных ИИ</translation>
+	</message>
+	<message>
+		<source>ofdprint</source>
+		<translation>Печать</translation>
+	</message>
+	<message>
+		<source>ofdconvert</source>
+		<translation>Преобразование в формат OFD</translation>
+	</message>
+	<message>
+		<source>ofd2pdf</source>
+		<translation>Преобразовать в PDF</translation>
+	</message>
+	<message>
+		<source>ofd2photo</source>
+		<translation>Преобразовать в изображение</translation>
+	</message>
+	<message>
+		<source>aiproductimage</source>
+		<translation>ИИ товарное изображение</translation>
+	</message>
+
+	<!-- i18n -->
+	<message>
+		<source>Edit</source>
+		<translation>Изменить</translation>
+	</message>
+	<message>
+		<source>Export to PDF</source>
+		<translation>Экспорт в PDF</translation>
+	</message>
+	<message>
+		<source>photoeditrepair</source>
+		<translation>Редактировать изображение</translation>
+	</message>
+	<message>
+		<source>Crop / BG Remove / Enhancer</source>
+		<translation>Обрезка / Удаление фона / Улучшение изображения</translation>
+	</message>
+	<message>
+		<source>Image to PDF / Extract Text</source>
+		<translation>Изображение в PDF / Извлечение текста</translation>
+	</message>
+	<message>
+		<source>Print Image / Compress Image</source>
+		<translation>Печать изображения / Сжатие изображения</translation>
+	</message>
+	<message>
+		<source>Crop</source>
+		<translation>Обрезка</translation>
+	</message>
+	<message>
+		<source>BG Removal</source>
+		<translation>Умное удаление фона</translation>
+	</message>
+	<message>
+		<source>AI Remove</source>
+		<translation>Ластик для изображений</translation>
+	</message>
+	<message>
+		<source>AI Text Editing</source>
+		<translation>AI без швов изменяет текст</translation>
+	</message>
+</tr>

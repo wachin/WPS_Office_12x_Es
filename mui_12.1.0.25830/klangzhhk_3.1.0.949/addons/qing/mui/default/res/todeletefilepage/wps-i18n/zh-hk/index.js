@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["zh-hk/index"],{"5ab5":function(e,a,c){"use strict";c.r(a),a["default"]={ea1b32abc4:"圖示",e67ad374b5:"WPS雲端","1c2d40614f":"WPS-同步資料夾","5fed377557":"關閉","19ae0ca0ca":"雲端部分檔案已被刪除","7ff9213e9d":"本地對應的檔案是否也移到回收站？","255cece332":"修改提醒設定","618b644b27":"移到系統回收站","26ea44c81a":"恢復全部"}}}]);

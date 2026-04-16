@@ -1,0 +1,757 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tr version="1">
+	<message>
+		<source>pdf2office</source>
+		<translation>Diğer biçimlere dönüştür</translation>
+	</message>
+	<message>
+		<source>pdf2doc</source>
+		<translation>Word'e dönüştür</translation>
+	</message>
+	<message>
+		<source>pdf2xls</source>
+		<translation>Excel'e dönüştür</translation>
+	</message>
+	<message>
+		<source>pdf2ppt</source>
+		<translation>PPT'ye dönüştür</translation>
+	</message>
+	<message>
+		<source>pdf2imgpdf</source>
+		<translation>Resim tipi PDF'ye dönüştür</translation>
+	</message>
+	<message>
+		<source>pdf2photo</source>
+		<translation>Resme dönüştür</translation>
+	</message>
+	<message>
+		<source>pdfsplitmerge</source>
+		<translation>PDF birleştirme/ayırma/sıkıştırma</translation>
+	</message>
+	<message>
+		<source>pdfconvertsplitmerge</source>
+		<translation>PDF dönüştürme/birleştirme/ayırma</translation>
+	</message>
+	<message>
+		<source>pdfsplit</source>
+		<translation>PDF ayırma</translation>
+	</message>
+	<message>
+		<source>pdfmerge</source>
+		<translation>PDF birleştirme</translation>
+	</message>
+	<message>
+		<source>photo2pdfocr</source>
+		<translation>Resmi PDF'e dönüştür</translation>
+	</message>
+	<message>
+		<source>photo2pdf</source>
+		<translation>PDF'e dönüştür</translation>
+	</message>
+	<message>
+		<source>pic2txt</source>
+		<translation>Saf metni çıkar</translation>
+	</message>
+	<message>
+		<source>pic2table</source>
+		<translation>Excel'e dönüştür</translation>
+	</message>
+	<message>
+		<source>file2pdf</source>
+		<translation>PDF'e dönüştür</translation>
+	</message>
+	<message>
+		<source>aiocr2pdf</source>
+		<translation>Metni tanı</translation>
+	</message>
+	<message>
+		<source>pdf2cad</source>
+		<translation>CAD dosyasına dönüştür</translation>
+	</message>
+	<message>
+		<source>cad2pdf</source>
+		<translation>CAD dosyasını PDF'e dönüştür</translation>
+	</message>
+	<message>
+		<source>cad2pdflite</source>
+		<translation>CAD'ı PDF'e dönüştür</translation>
+	</message>
+	<message>
+		<source>caj2pdf</source>
+		<translation>CAJ dosyasını PDF'e dönüştür</translation>
+	</message>
+	<message>
+		<source>batchcompress</source>
+		<translation>PDF boyutunu küçült</translation>
+	</message>
+	<message>
+		<source>pdfbatchcompress</source>
+		<translation>PDF sıkıştırma</translation>
+	</message>
+	<message>
+		<source>papercheck</source>
+		<translation>makale benzerlik kontrolü</translation>
+	</message>
+	<message>
+		<source>batchprint</source>
+		<translation>PDF toplu baskı</translation>
+	</message>
+	<message>
+		<source>multicomponentbatchprint</source>
+		<translation>toplu baskı</translation>
+	</message>
+	<message>
+		<source>EditWithWPSPDF</source>
+		<translation>WPS PDF düzenleme kullan</translation>
+	</message>
+	<message>
+		<source>EditPDF</source>
+		<translation>PDF düzenleme</translation>
+	</message>
+	<message>
+		<source>photocadconvert</source>
+		<translation>CAD dosyasını resme dönüştür</translation>
+	</message>
+	<message>
+		<source>photocadconvertlite</source>
+		<translation>CAD to resim</translation>
+	</message>
+	<message>
+		<source>photoprint</source>
+		<translation>resim baskısı</translation>
+	</message>
+	<message>
+		<source>photosplice</source>
+		<translation>Resim Birleştirme</translation>
+	</message>
+	<message>
+		<source>photobatchprintsplice</source>
+		<translation>Çoklu Resim Yazdırma/Birleştirme</translation>
+	</message>
+	<message>
+		<source>multiplephotoprint</source>
+		<translation>Çoklu Resim Yazdırma</translation>
+	</message>
+	<message>
+		<source>multiplephotosplice</source>
+		<translation>Çoklu Resim Birleştirme</translation>
+	</message>
+	<message>
+		<source>photoresizeconvert</source>
+		<translation>Resim Özellikleri Değiştirme</translation>
+	</message>
+	<message>
+		<source>photoresize</source>
+		<translation>Boyut Değiştirme</translation>
+	</message>
+	<message>
+		<source>photocompress</source>
+		<translation>Resim Sıkıştırma</translation>
+	</message>
+	<message>
+		<source>photorepairapp</source>
+		<translation>Resim Onarımı</translation>
+	</message>
+	<message>
+		<source>photoscanapp</source>
+		<translation>Tarama Dosyası Oluşturma</translation>
+	</message>
+	<message>
+		<source>photoconvert</source>
+		<translation>Format Dönüştürme</translation>
+	</message>
+	<message>
+		<source>photosplitapp</source>
+		<translation>Resim Bölme</translation>
+	</message>
+	<message>
+		<source>photodesign</source>
+		<translation>Tasarım Resmi</translation>
+	</message>
+	<message>
+		<source>newmenuchuangkitdesign</source>
+		<translation>Poster Resmi</translation>
+	</message>
+	<message>
+		<source>photobatch</source>
+		<translation>Resimleri Toplu İşle</translation>
+	</message>
+	<message>
+		<source>photobatchcrop</source>
+		<translation>Toplu Kırpma</translation>
+	</message>
+	<message>
+		<source>photobatchcorrect</source>
+		<translation>Toplu Düzeltme</translation>
+	</message>
+	<message>
+		<source>photobatchrotate</source>
+		<translation>Toplu Döndürme</translation>
+	</message>
+	<message>
+		<source>photobatchtext</source>
+		<translation>Toplu Metin Ekleme</translation>
+	</message>
+	<message>
+		<source>photobatchwatermark</source>
+		<translation>Toplu Filigran Ekleme</translation>
+	</message>
+	<message>
+		<source>photobatchcompress</source>
+		<translation>Toplu Sıkıştırma</translation>
+	</message>
+	<message>
+		<source>photobatchresize</source>
+		<translation>Boyutları topluca değiştir</translation>
+	</message>
+	<message>
+		<source>photobatchrename</source>
+		<translation>Toplu yeniden adlandırma</translation>
+	</message>
+	<message>
+		<source>photobatchconvert</source>
+		<translation>Toplu format dönüştürme</translation>
+	</message>
+	<message>
+		<source>kbatchconvertfile</source>
+		<translation>Toplu belge biçimi değiştirme</translation>
+	</message>
+	<message>
+		<source>photobatchmatting</source>
+		<translation>Toplu resim kesme</translation>
+	</message>
+	<message>
+		<source>more</source>
+		<translation>Daha fazla WPS işlevi</translation>
+	</message>
+	<message>
+		<source>docsplitmerge</source>
+		<translation>Belge birleştirme/ayırma</translation>
+	</message>
+	<message>
+		<source>docsplit</source>
+		<translation>Belge ayırma</translation>
+	</message>
+	<message>
+		<source>docmerge</source>
+		<translation>Belge birleştirme</translation>
+	</message>
+	<message>
+		<source>photoprintdevelop</source>
+		<translation>Resim yazdırma/fotoğraf baskısı</translation>
+	</message>
+	<message>
+		<source>photodevelop</source>
+		<translation>Fotoğraf baskısı özelleştirme</translation>
+	</message>
+	<message>
+		<source>pdfbatchrename</source>
+		<translation>Toplu yeniden adlandırma</translation>
+	</message>
+	<message>
+		<source>hide</source>
+		<translation>Sağ tıklama menüsünü gizle</translation>
+	</message>
+	<message>
+		<source>batchwatermark</source>
+		<translation>Toplu su işareti ekleme/çıkarma</translation>
+	</message>
+	<message>
+		<source>kapower</source>
+		<translation>Ekran kaydı</translation>
+	</message>
+	<message>
+		<source>docbeautify</source>
+		<translation>PPT otomatik güzelleştirme</translation>
+	</message>
+	<message>
+		<source>kcdiskclean</source>
+		<translation>C sürücüsü alanını serbest bırak</translation>
+	</message>
+	<message>
+		<source>Edit Property</source>
+		<translation>Özellik değiştirme</translation>
+	</message>
+	<message>
+		<source>Edit Property</source>
+		<translation>Özellik değiştirme</translation>
+	</message>
+	<message>
+		<source>Modify Format</source>
+		<translation>Biçimi değiştirme</translation>
+	</message>
+	<message>
+		<source>File Type:</source>
+		<translation>Dosya Türü:</translation>
+	</message>
+	<message>
+		<source>PictureFile</source>
+		<translation>Resim Dosyası</translation>
+	</message>
+	<message>
+		<source>Support JPG, PNG, BMP and other formats</source>
+		<translation>jpg, png, bmp vb. formatları destekler</translation>
+	</message>
+	<message>
+		<source>Format Conversion</source>
+		<translation>Biçim Dönüştürme</translation>
+	</message>
+	<message>
+		<source>Resize</source>
+		<translation>Boyutu Ayarlama</translation>
+	</message>
+	<message>
+		<source>Size:</source>
+		<translation>Boyut:</translation>
+	</message>
+	<message>
+		<source>Occupied Space:</source>
+		<translation>Alan Kaplama:</translation>
+	</message>
+	<message>
+		<source>Resolution:</source>
+		<translation>Çözünürlük:</translation>
+	</message>
+	<message>
+		<source>Width</source>
+		<translation>Genişlik:</translation>
+	</message>
+	<message>
+		<source>Height</source>
+		<translation>Yükseklik:</translation>
+	</message>
+	<message>
+		<source>Compression</source>
+		<translation>Boyutu sıkıştır</translation>
+	</message>
+	<message>
+		<source>supports compression to a specified size</source>
+		<translation>Belirli bir boyutta sıkıştırmayı destekler</translation>
+	</message>
+	<message>
+		<source>modify size</source>
+		<translation>Boyutu değiştir</translation>
+	</message>
+	<message>
+		<source>support specified size and high quality</source>
+		<translation>Belirli boyutları ve yüksek kaliteli çözünürlüğü destekler</translation>
+	</message>
+	<message>
+		<source>Picture Output</source>
+		<translation>Resim çıktısı</translation>
+	</message>
+	<message>
+		<source>Name:</source>
+		<translation>Ad:</translation>
+	</message>
+	<message>
+		<source>Position:</source>
+		<translation>Konum:</translation>
+	</message>
+	<message>
+		<source>Print</source>
+		<translation>Yazdır</translation>
+	</message>
+	<message>
+		<source>support typesetting beautification and HD quality</source>
+		<translation>Düzenleme ve yüksek kaliteli çözünürlüğü destekler</translation>
+	</message>
+	<message>
+		<source>Normal</source>
+		<translation>Standart</translation>
+	</message>
+	<message>
+		<source>Pix</source>
+		<translation>Piksel</translation>
+	</message>
+	<message>
+		<source>Improve image quality</source>
+		<translation>Kaliteyi artır</translation>
+	</message>
+	<message>
+		<source>Output conversion</source>
+		<translation>Çıktı dönüştür</translation>
+	</message>
+	<message>
+		<source>Support specified size and image quality repair</source>
+		<translation>Belirli boyutları destekle, kaliteyi düzelt</translation>
+	</message>
+	<message>
+		<source>Picture to PDF</source>
+		<translation>Resmi PDF'e dönüştür</translation>
+	</message>
+	<message>
+		<source>Support single sheet output and multi sheet synthesis</source>
+		<translation>Birden fazla resmi birleştirme desteği</translation>
+	</message>
+	<message>
+		<source>gifedit</source>
+		<translation>GIF düzenleme</translation>
+	</message>
+	<message>
+		<source>gifcompose</source>
+		<translation>Birden fazla resmi GIF'e dönüştürme</translation>
+	</message>
+	<message>
+		<source>cadedit</source>
+		<translation>CAD dosyasını aç</translation>
+	</message>
+	<message>
+		<source>kcadonlineguide</source>
+		<translation>CAD dosyasını aç</translation>
+	</message>
+	<message>
+		<source>3dblueprint</source>
+		<translation>2D·3D çizimleri aç</translation>
+	</message>
+	<message>
+		<source>SpaceUsage:</source>
+		<translation>Alan kaplayın:</translation>
+	</message>
+	<message>
+		<source>Export as image</source>
+		<translation>Resim olarak dışa aktar</translation>
+	</message>
+	<message>
+		<source>Export as Word</source>
+		<translation>Word'e dönüştür</translation>
+	</message>
+	<message>
+		<source>Merge Splite</source>
+		<translation>Birleştir ve böl</translation>
+	</message>
+	<message>
+		<source>Export as pdf</source>
+		<translation>PDF'e dönüştür</translation>
+	</message>
+	<message>
+		<source>Export as img pdf</source>
+		<translation>Resimli PDF'e dönüştür</translation>
+	</message>
+	<message>
+		<source>PageSize</source>
+		<translation>Sayfa boyutu</translation>
+	</message>
+	<message>
+		<source>Compress</source>
+		<translation>Sıkıştır</translation>
+	</message>
+	<message>
+		<source>Full text Translate</source>
+		<translation>Tüm metni çevir</translation>
+	</message>
+	<message>
+		<source>Supports conversion to Word, Excel, PPT etc.</source>
+		<translation>Word、Excel、PPT vb. olarak dönüştürmeyi destekler</translation>
+	</message>
+	<message>
+		<source>bytes</source>
+		<translation>bayt</translation>
+	</message>
+	<message>
+		<source>Output Conversion</source>
+		<translation>çıktı dönüşümü</translation>
+	</message>
+	<message>
+		<source>PageCount:</source>
+		<translation>Sayfa aralığı:</translation>
+	</message>
+	<message>
+		<source>WordCount:</source>
+		<translation>Kelime sayısı:</translation>
+	</message>
+	<message>
+		<source>Convert compression</source>
+		<translation>Dönüştürme sıkıştırması</translation>
+	</message>
+	<message>
+		<source>Support multilingual transliteration</source>
+		<translation>Çoklu dil dönüşümünü destekler</translation>
+	</message>
+	<message>
+		<source>Support MOV,AVI,MPEG</source>
+		<translation>MOV、AVI、MPEG vb. formatları destekler</translation>
+	</message>
+	<message>
+		<source>Extract image</source>
+		<translation>Belgedeki resimleri çıkart</translation>
+	</message>
+	<message>
+		<source>newdocermall</source>
+		<translation>Şablondan yeni oluştur</translation>
+	</message>
+	<message>
+		<source>kquicksearch</source>
+		<translation>Dosya hızlı arama</translation>
+	</message>
+	<message>
+		<source>kaudio2word</source>
+		<translation>Ses metne dönüştür</translation>
+	</message>
+	<message>
+		<source>kbatchcompress</source>
+		<translation>Dosya boyutunu küçült</translation>
+	</message>
+	<message>
+		<source>kvideo2word</source>
+		<translation>Videoyu metne dönüştür</translation>
+	</message>
+	<message>
+		<source>usewpsopen</source>
+		<translation>WPS ile aç</translation>
+	</message>
+	<message>
+		<source>promedocdiff</source>
+		<translation>Belge karşılaştır</translation>
+	</message>
+	<message>
+		<source>more item</source>
+		<translation>Daha fazla</translation>
+	</message>
+	<message>
+		<source>photo</source>
+		<translation>Resim</translation>
+	</message>
+	<message>
+		<source>multiphoto</source>
+		<translation>Çoklu resim</translation>
+	</message>
+	<message>
+		<source>yituflow</source>
+		<translation>Akış şeması</translation>
+	</message>
+	<message>
+		<source>yitumind</source>
+		<translation>Zihin Haritası</translation>
+	</message>
+	<message>
+		<source>videoplayer</source>
+		<translation>Video Oynatma</translation>
+	</message>
+	<message>
+		<source>datarecover</source>
+		<translation>Veri Kurtarma</translation>
+	</message>
+	<message>
+		<source>recyclebindatarecover immediately</source>
+		<translation>Hemen Kurtar</translation>
+	</message>
+	<message>
+		<source>recyclebindatarecover</source>
+		<translation>Silinen Dosyaları Kurtar</translation>
+	</message>
+	<message>
+		<source>freediskspace</source>
+		<translation>Disk Alanı Serbest Bırak</translation>
+	</message>
+	<message>
+		<source>cleandupfiles</source>
+		<translation>Yinelenen Dosyaları Temizle</translation>
+	</message>
+	<message>
+		<source>kaivideosummary</source>
+		<translation>Video AI Özeti</translation>
+	</message>
+	<message>
+		<source>search</source>
+		<translation>Hemen Ara</translation>
+	</message>
+	<message>
+		<source>videocompress</source>
+		<translation>Video Sıkıştırma</translation>
+	</message>
+	<message>
+		<source>videoconvertandgiflist</source>
+		<translation>Video formatını dönüştür/GIF'e dönüştür</translation>
+	</message>
+	<message>
+		<source>videoconvertfmt</source>
+		<translation>Video formatını dönüştür</translation>
+	</message>
+	<message>
+		<source>videotools2gif</source>
+		<translation>Videoyu GIF'e dönüştür</translation>
+	</message>
+	<message>
+		<source>videohandlelist</source>
+		<translation>Ses çıkarma/Videoyu metne dönüştür</translation>
+	</message>
+	<message>
+		<source>extractaudio</source>
+		<translation>Ses çıkarma</translation>
+	</message>
+	<message>
+		<source>videoedit</source>
+		<translation>Video düzenleme</translation>
+	</message>
+	<message>
+		<source>croprotate</source>
+		<translation>Kırpma döndürme</translation>
+	</message>
+	<message>
+		<source>merge</source>
+		<translation>Birleştirme</translation>
+	</message>
+	<message>
+		<source>videomerge</source>
+		<translation>Video birleştirme</translation>
+	</message>
+	<message>
+		<source>cut</source>
+		<translation>Kesme</translation>
+	</message>
+	<message>
+		<source>removewatermark</source>
+		<translation>Su işareti kaldır</translation>
+	</message>
+	<message>
+		<source>videoclip</source>
+		<translation>Video düzenleme</translation>
+	</message>
+	<message>
+		<source>videoconvertcompresslist</source>
+		<translation>Video dönüştürme/sıkıştırma</translation>
+	</message>
+	<message>
+		<source>singlevideoconvert</source>
+		<translation>Video dönüştürme</translation>
+	</message>
+	<message>
+		<source>singlevideocompress</source>
+		<translation>Video sıkıştırma</translation>
+	</message>
+	<message>
+		<source>multivideoconvert</source>
+		<translation>Toplu video dönüştürme</translation>
+	</message>
+	<message>
+		<source>multivideocompress</source>
+		<translation>Toplu video sıkıştırma</translation>
+	</message>
+	<message>
+		<source>singlevideoclip</source>
+		<translation>Video düzenleme</translation>
+	</message>
+	<message>
+		<source>multivideoclip</source>
+		<translation>Toplu video düzenleme</translation>
+	</message>
+	<message>
+		<source>WPSAI</source>
+		<translation>WPS AI</translation>
+	</message>
+	<message>
+		<source>wpsAiDoc2ppt</source>
+		<translation>AI Belge Oluşturma PPT</translation>
+	</message>
+	<message>
+		<source>pdfAiDoc2ppt</source>
+		<translation>AI Belge Oluşturma PPT</translation>
+	</message>
+	<message>
+		<source>mindmapguide</source>
+		<translation>AI Belge Zihin Haritası</translation>
+	</message>
+	<message>
+		<source>aiPolish</source>
+		<translation>AI Tüm Metni Düzeltme</translation>
+	</message>
+	<message>
+		<source>aiReading</source>
+		<translation>AI Belge Soru Cevap</translation>
+	</message>
+	<message>
+		<source>aiTypeDoc</source>
+		<translation>AI Düzenleme</translation>
+	</message>
+	<message>
+		<source>articleSummary</source>
+		<translation>AI Tüm Metni Özetleme</translation>
+	</message>
+	<message>
+		<source>wpscompress</source>
+		<translation>WPS Dosyasını Çıkart</translation>
+	</message>
+	<message>
+		<source>open by wps</source>
+		<translation>WPS ile Açarak Çıkart</translation>
+	</message>
+	<message>
+		<source>extract to current folder</source>
+		<translation>Mevcut Klasöre Çıkart</translation>
+	</message>
+	<message>
+		<source>extract to</source>
+		<translation>Çıkart</translation>
+	</message>
+	<message>
+		<source>extract to...</source>
+		<translation>... klasörüne çıkart</translation>
+	</message>
+	<message>
+		<source>aiDaAys</source>
+		<translation>Yapay Zeka Veri Analizi</translation>
+	</message>
+	<message>
+		<source>ofdprint</source>
+		<translation>Yazdır</translation>
+	</message>
+	<message>
+		<source>ofdconvert</source>
+		<translation>OFD formatına dönüştür</translation>
+	</message>
+	<message>
+		<source>ofd2pdf</source>
+		<translation>PDF'e dönüştür</translation>
+	</message>
+	<message>
+		<source>ofd2photo</source>
+		<translation>Resme dönüştür</translation>
+	</message>
+	<message>
+		<source>aiproductimage</source>
+		<translation>Yapay Zeka Ürün Resmi</translation>
+	</message>
+
+	<!-- i18n -->
+	<message>
+		<source>Edit</source>
+		<translation>Düzenle</translation>
+	</message>
+	<message>
+		<source>Export to PDF</source>
+		<translation>PDF'ye Aktar</translation>
+	</message>
+	<message>
+		<source>photoeditrepair</source>
+		<translation>Resmi Düzenle</translation>
+	</message>
+	<message>
+		<source>Crop / BG Remove / Enhancer</source>
+		<translation>Kırpma / Arka plan kaldırma / Görüntü iyileştirme</translation>
+	</message>
+	<message>
+		<source>Image to PDF / Extract Text</source>
+		<translation>Görüntüyü PDF'e dönüştür / Metin çıkarma</translation>
+	</message>
+	<message>
+		<source>Print Image / Compress Image</source>
+		<translation>Görüntü yazdırma / Görüntü sıkıştırma</translation>
+	</message>
+	<message>
+		<source>Crop</source>
+		<translation>Kırpma</translation>
+	</message>
+	<message>
+		<source>BG Removal</source>
+		<translation>AI Resim Kesme</translation>
+	</message>
+	<message>
+		<source>AI Remove</source>
+		<translation>AI Kaldırma</translation>
+	</message>
+	<message>
+		<source>AI Text Editing</source>
+		<translation>AI ile görünmez yazı değiştirme</translation>
+	</message>
+</tr>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tr version="1">
+    <message>
+        <source>Create synchronization this folder</source>
+        <translation>สร้างการซิงโครไนซ์โฟลเดอร์นี้</translation>
+    </message>
+    <message>
+        <source>Cancel synchronization</source>
+        <translation>ยกเลิกการซิงโครไนซ์</translation>
+    </message>
+    <message>
+        <source>Sync Desktop Setting</source>
+        <translation>ซิงโครไนซ์การตั้งค่าเดสก์ท็อป</translation>
+    </message>
+    <message>
+        <source>Send to mobile</source>
+        <translation>ส่งไปยังมือถือ</translation>
+    </message>
+    <message>
+        <source>Sync Desktop All Files</source>
+        <translation>ซิงโครไนซ์ไฟล์ทั้งหมดในเดสก์ท็อป</translation>
+    </message>
+    <message>
+        <source>send by WPS</source>
+        <translation>ส่งโดย WPS</translation>
+    </message>
+    <message>
+        <source>send to my device by wps</source>
+        <translation>ส่งไปยังอุปกรณ์ของฉันโดย WPS</translation>
+    </message>
+    <message>
+        <source>Convert to online document</source>
+        <translation>แปลงเป็นเอกสารออนไลน์</translation>
+    </message>
+    <message>
+        <source>cancel share</source>
+        <translation>ยกเลิกการแชร์</translation>
+    </message>
+    <message>
+        <source>invite others synchronization</source>
+        <translation>เชิญผู้อื่นเข้าร่วมการซิงโครไนซ์</translation>
+    </message>
+    <message>
+        <source>Upload file</source>
+        <translation>อัปโหลดไปที่ WPS Cloud</translation>
+    </message>
+    <message>
+        <source>Upload or synchronization</source>
+        <translation>อัปโหลดหรือซิงโครไนซ์</translation>
+    </message>
+    <message>
+        <source>Send to shared folder</source>
+        <translation>ส่งไปยังโฟลเดอร์ที่แชร์</translation>
+    </message>
+</tr>

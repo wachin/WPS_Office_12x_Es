@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport"
+        content="width=device-width,height=device-height,initial-scale=1,maximum-scale=1,user-scalable=0">
+  <meta charset="UTF-8">
+  <title>WPS 网络连接失败</title>
+  <style>
+    body, html {
+      background-color: #f7f7f7;
+      overflow-x: hidden !important;
+      font-family: "Microsoft YaHei", "微软雅黑";
+      min-width: 300px;
+    }
+
+    p {
+      margin: 0;
+      padding: 0;
+    }
+
+    .wps-error-page {
+      padding-top: 110px;
+      width: 360px;
+      height: auto;
+      margin: 0 auto;
+    }
+
+    .wps-error-page-icon {
+      margin: 0 auto;
+      width: 300px;
+      height: 150px;
+      display: block;
+      background: url('./fail.png') center center no-repeat;
+    }
+
+    .wps-error-page-retry {
+      margin-top: 10px;
+      margin-bottom: 20px;
+      height: 24px;
+      line-height: 24px;
+      text-align: center;
+      color: #808080;
+      font-size: 14px;
+    }
+
+    .wps-error-page-refresh {
+      width: 120px;
+      margin: 0 auto;
+      height: 32px;
+      line-height: 32px;
+      text-align: center;
+      font-size: 14px;
+      color: #ffffff;
+      background-color: #4586d8;
+      cursor: pointer;
+      border-radius: 1.6px;
+    }
+
+    .wps-error-page-refresh:hover {
+      background-color: #5f9ce9;
+    }
+
+    .wps-error-page-refresh:active {
+      background-color: #3e7dcd;
+    }
+
+    .wps-error-page-more {
+      width: 100%;
+      position: absolute;
+      bottom: 30px;
+      height: 24px;
+      line-height: 24px;
+      text-align: center;
+      color: #bbbbbb;
+      font-size: 12px;
+    }
+
+    .wps-error-page-more span {
+      padding-left: 17px;
+      background: url('./cloud.png') left center no-repeat;
+    }
+
+    .link {
+      color: #0066cc;
+      text-decoration: underline;
+      cursor: pointer;
+      margin-left: 3px;
+      margin-right: 3px;
+    }
+
+    @media screen and (max-height: 430px) {
+      .wps-error-page-more {
+        position: relative;
+        bottom: 0px;
+        margin-top: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+<div class="wps-error-page">
+  <i class="wps-error-page-icon"></i>
+  <p class="wps-error-page-retry">网络连接失败，请查看网络连接！<span class="link" onclick="showNetDetect();">诊断网络</span></p>
+  <div class="wps-error-page-refresh" onclick="refresh();">重新加载</div>
+</div>
+<div class="wps-error-page-more">打开本地<span class="link" onclick="openVirtualCloudDisk();">WPS云文档</span>，查看已下载的本地文档</div>
+</body>
+<script>
+
+  window.refresh = function () {
+    exec('jsReload');
+  };
+
+  window.openVirtualCloudDisk = function () {
+    exec('openVirtualCloudDisk');
+  };
+
+  window.showNetDetect = function () {
+    exec('showNetDetect');
+  };
+
+  function exec(method) {
+
+    var str = JSON.stringify({
+      method: method
+    });
+
+    if (typeof clientAPI !== 'undefined' && clientAPI.jsAsynCall) {
+      clientAPI.jsAsynCall(str);
+      return;
+    }
+
+    window.cefQuery({
+      request: "jsAsynCall('" + str + "')",
+      persistent: false
+    });
+  }
+</script>
+</html>

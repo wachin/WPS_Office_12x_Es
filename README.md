@@ -198,4 +198,42 @@ wpsoffice\Application%20Settings\AppComponentMode=prome_independ
 wpsoffice\Application%20Settings\AppComponentModeInstall=prome_independ
 ```
 
+# Dónde se descargan los idiomas en Windows
+
+Primero descarga e instala el cual a la fecha 2026 está en la versión WPS Office 12 
+
+[https://wps.com/office/windows/](https://wps.com/office/windows/)
+
+Ejemplo en Windows 10 los lenguajes del programa WPS Office 12 para Windows se los puede descargar as, clic en la interfazí:
+
+![](vx_images/02-WPS-Office-global-config-menu.png)
+
+
+y descarga los idiomas:
+
+![](vx_images/03-Click-on-a-language-and-then-click-Apply.png)
+
+una vez descargados los idiomas estos se descargan en:
+
+C:\Users\youruser\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64
+
+Como son:
+
+![](vx_images/04-downloaded-languages.png)
+
+
+La lista de los lenguajes está aquí:  
+  
+C:\Users\youruser\AppData\Local\Kingsoft\WPS Office\12.1.0.25830\office6\mui\lang_list\lang_list.json
+
+![20260416-000808](vx_images/507184629680596.png)
+
+
+pero aún hay unos paquetes que están en otro lado, esos vienen con la versión de Windows en español, están en:
+
+C:\Users\wachi\AppData\Local\Kingsoft\WPS Office\12.1.0.25830\office6\mui
+
+![](vx_images/05-languages-downloaded-by-the-Spanish-version.png)
+
 Si este tutorial te ayudo, puedes dejar una estrella en el repositorio.
+
