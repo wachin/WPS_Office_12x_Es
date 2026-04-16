@@ -46,6 +46,10 @@ Sitio oficial de la página china:
 
 - [https://www.wps.cn](https://www.wps.cn)
 
+allí al dar clic al botón rojo, redirije a:
+
+[https://www.wps.cn/product/wpslinux](https://www.wps.cn/product/wpslinux)
+
 Luego instala el paquete.
 
 Si usas Debian, Ubuntu, Linux Mint o similares:
