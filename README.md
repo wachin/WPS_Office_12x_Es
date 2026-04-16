@@ -1,5 +1,8 @@
 # WPS Office 12.x en español para Linux
 
+
+# Tutorial en construcción, todavía no funcional
+
 Este repositorio sirve para poner **WPS Office 12.x** en **español** en Linux.
 
 Aqui vas a encontrar dos cosas:
